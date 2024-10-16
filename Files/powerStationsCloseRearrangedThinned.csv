@@ -1,0 +1,461 @@
+,Region,Asset Type, Site Name , Owner , Fuel Type ,Number of Units,Upper Nameplate Capacity (MW),Nameplate_Capacity,Storage Capacity (MWh),Unit Status,Fuel_Bucket_Summary,variable,specificYear
+0,SA,Existing Plant,Adelaide Desalination Plant,South Australian Water Corporation,Solar - Solar,4,2.75,11,, In Service , Solar ,Full Commercial Use Date,2022.0
+1,SA,Existing Plant,Adelaide Desalination Plant,South Australian Water Corporation,Other - Other,1,6.27,6.27,12.6, In Service , Battery Storage ,Full Commercial Use Date,2022.0
+2,SA,Existing Plant,Adelaide Desalination Plant,South Australian Water Corporation,Solar - Solar,4,3.43,13.72,, In Service , Solar ,Full Commercial Use Date,2022.0
+3,QLD,Project,Aldoga BESS Stage 1,Acciona Energy Australia Global,Other - Other,1,400, 200.00 - 400.00 ,400.0, Anticipated , Battery Storage ,Full Commercial Use Date,2025.0
+4,QLD,Project,Aramara Solar Farm,Aramara Solar Pty Ltd,Solar - Solar,1,101.4,101.4,, Anticipated , Solar ,Full Commercial Use Date,2026.0
+5,NSW,Project,Armidale BESS,VALENT ENERGY DEVELOPMENTS PTY LTD,Other - Other,1,150,150,300.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2026.0
+6,NSW,Existing Plant,Avonlie Solar Farm,Iberdrola Australia Limited,Solar - Solar,70,3.63,254.1,, In Service , Solar ,Full Commercial Use Date,2023.0
+7,QLD,Existing Plant,Baking Board Solar Farm Chinchilla,Chinchilla Solar Pty Ltd,Solar - Solar,1,14.7,14.7,, In Service , Solar ,Full Commercial Use Date,2018.0
+8,QLD,Project,Banana Range Wind Farm,Orange Creek Energy Pty Ltd,Wind - Wind,54,6,324,, Publicly Announced , Wind ,Full Commercial Use Date,2026.0
+9,QLD,Project,Banana Range Wind Farm,Orange Creek Energy Pty Ltd,Wind - Wind,38,6,228,, Publicly Announced , Wind ,Full Commercial Use Date,2026.0
+10,NSW,Existing Plant,Bango 973 Wind Farm,BWF Nominees Pty Ltd as trustee for the BWF Trust,Wind - Wind,30,5.3,159,, In Service , Wind ,Full Commercial Use Date,2022.0
+11,NSW,Existing Plant,Bango 999 Wind Farm,BWF Nominees Pty Ltd as trustee for the BWF Trust,Wind - Wind,16,5.3,84.8,, In Service , Wind ,Full Commercial Use Date,2022.0
+12,VIC,Existing Plant,Bannerton Solar Park,Foresight Solar Australia Pty Ltd,Solar - Solar,40,2.5,100,, In Service , Solar ,Full Commercial Use Date,2019.0
+13,SA,Existing Plant,Barker Inlet Power Station,AGL Barker Inlet Pty Ltd,Fossil - Natural Gas Pipeline,12,17.5,210,, In Service , Gas other ,Full Commercial Use Date,2020.0
+14,SA,Project,Baroota Pumped Hydro Project,ACEN Renewables,Hydro - Water,2,125,250,0.0, Publicly Announced , Water ,Full Commercial Use Date,2025.0
+15,VIC,Existing Plant,Berrybank Wind Farm,Berrbank Development Pty ltd,Wind - Wind,43,4.2,180.6,, In Service , Wind ,Full Commercial Use Date,2021.0
+16,VIC,Existing Plant,Berrybank Wind Farm,Berrbank Development Pty ltd,Wind - Wind,26,4.2,109.2,, In Service , Wind ,Full Commercial Use Date,2022.0
+17,NSW,Existing Plant,Beryl Solar Farm,FS NSW Project No 1 AT Pty Ltd as trustee of FS NSW Project No 1 Asset Trust,Solar - Solar,60,1.64,98.4,0.0, In Service , Solar ,Full Commercial Use Date,2019.0
+18,QLD,Existing Plant,Bluegrass Solar Farm,X-Elio Australia Pty Ltd,Solar - Solar,1,148,148,0.0, In Service , Solar ,Full Commercial Use Date,2023.0
+19,SA,Project,Blyth BESS,Neoen Australia Pty Ltd,Other - Other,64,3.13,200,400.0, Committed , Battery Storage ,Full Commercial Use Date,2024.0
+20,NSW,Existing Plant,Bodangora Wind Farm,Bodangora Wind Farm Pty Ltd,Wind - Wind,33,3.43,113.19,, In Service , Wind ,Full Commercial Use Date,2019.0
+21,SA,Existing Plant,Bolivar Power Station,Iberdrola Australia Energy Markets Pty Limited,Fossil - Natural Gas Pipeline,4,30.8,123.2,, In Service , OCGT ,Full Commercial Use Date,2022.0
+22,SA,Existing Plant,Bolivar Waste Water Treatment,South Australian Water Corporation,Solar - Solar,3,3.75,11.25,, In Service , Solar ,Full Commercial Use Date,2022.0
+23,SA,Existing Plant,Bolivar Waste Water Treatment,South Australian Water Corporation,Other - Other,1,2.46,2.46,5.04, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+24,NSW,Existing Plant,Bomen Solar Farm,Spark Infrastructure Holdings No. 6 Pty Limited,Solar - Solar,44,2.75,121,0.0, In Service , Solar ,Full Commercial Use Date,2020.0
+25,NSW,Project,Bonshaw Solar Farm,GAIA Australia Pty Ltd,Solar - Solar,1,200,200,, Publicly Announced , Solar ,Full Commercial Use Date,2025.0
+26,QLD,Project,Borumba,Queensland Hydro,Hydro - Water,6,333,"1,998.00",48000.0, Anticipated , Water ,Full Commercial Use Date,1931.0
+27,QLD,Existing Plant,Bouldercombe Battery project,Genex Power Limited,Other - Other,40,1.25,50,100.0, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+28,NSW,Existing Plant,Broken Hill,MACQGEN,Other - Other,1,50,50,50.0, In Commissioning , Battery Storage ,Full Commercial Use Date,2024.0
+29,VIC,Existing Plant,Bulgana Green Power Hub - BESS,Bulgana Wind Farm Pty Ltd,Other - Other,40,0.5,20,34.0, In Service , Battery Storage ,Full Commercial Use Date,2021.0
+30,VIC,Existing Plant,Bulgana Green Power Hub - Wind Farm,Bulgana Wind Farm Pty Ltd,Wind - Wind,56,3.65,204.4,, In Service , Wind ,Full Commercial Use Date,2021.0
+31,QLD,Project,Bundaberg Solar Farm,Bundaberg Development Pty Ltd,Solar - Solar,1,78,78,, Committed , Solar ,Full Commercial Use Date,2025.0
+32,SA,Existing Plant,Bungala One Solar Farm,Bungala One Operations Pty Ltd as trustee for the Bungala One Operations Trust,Solar - Solar,54,2.5,135,0.0, In Service , Solar ,Full Commercial Use Date,2018.0
+33,SA,Existing Plant,Bungala Two Solar Farm,Bungala Two Operations Pty Ltd as trustee for the Bungala Two Operations Trust,Solar - Solar,54,2.5,135,, In Service , Solar ,Full Commercial Use Date,2021.0
+34,QLD,Project,Burdekin BESS,BURDEKIN SOLAR FARM PTY LTD ATF BURDEKIN GENESIS PROJECT TRUST,Other - Other,139,3.6,500.4,2000.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2026.0
+35,QLD,Project,Burdekin Solar Farm - KCI,BURDEKIN SOLAR FARM PTY LTD ATF BURDEKIN GENESIS PROJECT TRUST,Solar - Solar,2,3.6,7.2,, Publicly Announced , Solar ,Full Commercial Use Date,2026.0
+36,NSW,Project,Capital Battery,Capital Battery Pty Ltd,Other - Other,33,3.04,100.32,200.0, Committed , Battery Storage ,Full Commercial Use Date,2024.0
+37,QLD,Project,Captains Mountain Wind Farm,vestas_NR,Wind - Wind,45,7.2,324,, Publicly Announced , Wind ,Full Commercial Use Date,2027.0
+38,NSW,Project,Carag Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,4,4,16,, Publicly Announced , Solar ,Full Commercial Use Date,2025.0
+39,VIC,Project,Carisbrook Solar Farm,Origin Energy,Solar - Solar,1,74,74,, Publicly Announced , Solar ,Full Commercial Use Date,1930.0
+40,TAS,Existing Plant,Cattle Hill Wind Farm,Wild Cattle Hill Pty Ltd,Wind - Wind,45,3.2,144,, In Service , Wind ,Full Commercial Use Date,2021.0
+41,VIC,Existing Plant,Chepstowe Wind Farm - VIC,Chepstowe Wind Farm Pty Ltd,Wind - Wind,3,2.05,6.15,, In Service , Wind ,Full Commercial Use Date,2015.0
+42,VIC,Existing Plant,Cherry Tree Wind Farm,Cherry Tree Wind Farm Pty Limited A.T.F. Cherry Tree Project Trust,Wind - Wind,16,3.6,57.6,, In Service , Wind ,Full Commercial Use Date,2020.0
+43,QLD,Existing Plant,Childers Solar Farm,Childers Solar Pty Ltd as trustee for the Childers Solar Trust,Solar - Solar,37,1.74,64.38,, In Service , Solar ,Full Commercial Use Date,2019.0
+44,QLD,Existing Plant,Chinchilla BESS,CSENERGY,Other - Other,1,100,100,200.0, In Service , Battery Storage ,Full Commercial Use Date,2024.0
+45,SA,Existing Plant,Christies Beach Wastewater Treatment Plant,South Australian Water Corporation,Other - Other,1,2.09,2.09,4.32, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+46,SA,Existing Plant,Christies Beach Wastewater Treatment Plant,South Australian Water Corporation,Solar - Solar,2,2.4,4.8,, In Service , Solar ,Full Commercial Use Date,2022.0
+47,QLD,Project,Clarke Creek Wind Farm,Squadron Energy Services Pty Ltd,Wind - Wind,77,4.5,346.5,, Committed , Wind ,Full Commercial Use Date,2025.0
+48,QLD,Project,Clarke Creek Wind Farm,Squadron Energy Services Pty Ltd,Wind - Wind,23,4.5,103.5,, Committed , Wind ,Full Commercial Use Date,2025.0
+49,QLD,Existing Plant,Clermont Solar Farm,Clermont Asset Co Pty Ltd as Trustee for Clerrmont Solar Unit Trust,Solar - Solar,37,2.5,92.5,, In Service , Solar ,Full Commercial Use Date,2019.0
+50,NSW,Existing Plant,Collector,Ratch Australia,Wind - Wind,54,4.2,226.8,, In Service , Wind ,Full Commercial Use Date,2020.0
+51,QLD,Existing Plant,Collinsville PV,Ratch Australia,Solar - Solar,17,2.5,42.5,, In Service , Solar ,Full Commercial Use Date,2018.0
+52,QLD,Existing Plant,Columboola Solar Farm,Luminous Energy,Solar - Solar,79,2.75,217.25,0.0, In Service , Solar ,Full Commercial Use Date,2023.0
+53,QLD,Existing Plant,Coopers Gap Wind Farm,PARF Company 6 Pty Limited,Wind - Wind,91,3.63,330.33,, In Service , Wind ,Full Commercial Use Date,2022.0
+54,QLD,Existing Plant,Coopers Gap Wind Farm,PARF Company 6 Pty Limited,Wind - Wind,32,3.83,122.56,, In Service , Wind ,Full Commercial Use Date,2022.0
+55,NSW,Existing Plant,Corowa Solar Farm,Corowa Operationsco Pty Ltd as trustee for Corowa Operations Trust,Solar - Solar,22,1.64,36.01,, In Service , Solar ,Full Commercial Use Date,2021.0
+56,NSW,Existing Plant,Crookwell 2 Wind Farm,Crookwell Development Pty Ltd,Wind - Wind,28,3.43,96.04,, In Service , Wind ,Full Commercial Use Date,2018.0
+57,NSW,Project,Crookwell 3 Wind Farm,Crookwell 3 Development Pty Ltd,Wind - Wind,16,3.6,57.6,, Committed , Wind ,Full Commercial Use Date,2024.0
+58,NSW,Existing Plant,Crudine Ridge Wind Farm,CRWF Nominees Pty Ltd as trustee of the CRWF Trust,Wind - Wind,37,3.83,141.71,, In Service , Wind ,Full Commercial Use Date,2022.0
+59,NSW,Project,Culcairn Solar Farm,Culcarin Solar Farm Trust,Solar - Solar,111,3.15, 0.22 - 349.98 ,, Committed , Solar ,Full Commercial Use Date,2026.0
+60,SA,Project,Cultana Solar Farm,Cultana Solar Project Company Pty Ltd as trustee for the Cultana Solar Farm Trust,Solar - Solar,104,3.44,357.45,, Anticipated , Solar ,Full Commercial Use Date,2026.0
+61,NSW,Existing Plant,Darlington Point Energy Storage System,DPESS Pty Ltd,Other - Other,1,25,25,50.0, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+62,NSW,Existing Plant,Darlington Point Solar Farm,Darlington Point Solar Farm Pty Ltd,Solar - Solar,108,2.55,274.97,, In Service , Solar ,Full Commercial Use Date,2021.0
+63,VIC,Project,Derby Solar Farm,DERBY SOLAR PROJECT PTY LTD ,Solar - Solar,30,3.17,95.1,, Anticipated , Solar ,Full Commercial Use Date,2025.0
+64,VIC,Existing Plant,Diapur Wind Farm,Diapur Wind Farm Pty Ltd,Wind - Wind,2,4,8,, In Service , Wind ,Full Commercial Use Date,2021.0
+65,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Solar - Solar,1,400,400,, Publicly Announced , Solar ,Full Commercial Use Date,2028.0
+66,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Solar - Solar,1,400, 4.00 - 400.00 ,, Publicly Announced , Solar ,Full Commercial Use Date,2027.0
+67,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Wind - Wind,114,6.6, 513.00 - 752.40 ,, Publicly Announced , Wind ,Full Commercial Use Date,1930.0
+68,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Wind - Wind,86,6.6, 344.00 - 567.60 ,, Publicly Announced , Wind ,Full Commercial Use Date,2027.0
+69,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Other - Other,1,300,300,600.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2027.0
+70,QLD,Existing Plant,Dulacca Wind Farm,Dulacca Energy Project Co Pty Ltd,Wind - Wind,43,4.02,172.99,, In Service , Wind ,Full Commercial Use Date,2024.0
+71,VIC,Existing Plant,Dundonnell Wind Farm,Tilt Renewables,Wind - Wind,40,4.2,168,, In Service , Wind ,Full Commercial Use Date,2022.0
+72,VIC,Existing Plant,Dundonnell Wind Farm,Tilt Renewables,Wind - Wind,29,4.2,121.8,, In Service , Wind ,Full Commercial Use Date,2022.0
+73,VIC,Existing Plant,Dundonnell Wind Farm,Tilt Renewables,Wind - Wind,11,4.2,46.2,, In Service , Wind ,Full Commercial Use Date,2022.0
+74,QLD,Existing Plant,Edenvale Solar Park,Edenvale Solar Park Pty Ltd,Solar - Solar,1,180,180,, In Service , Solar ,Full Commercial Use Date,2024.0
+75,VIC,Existing Plant,Elaine Wind Farm,Northleaf /InfraRed/Macquarie Capital,Wind - Wind,22,3.8,83.6,, In Service , Wind ,Full Commercial Use Date,2020.0
+76,QLD,Existing Plant,Emerald Solar Park,Lighthouse Infrastructure Management Limited,Solar - Solar,32,2.25,72,, In Service , Solar ,Full Commercial Use Date,2019.0
+77,NSW,Project,Eraring Big Battery,Origin Energy Electricity Limited,Other - Other,1,460,460,920.0, Committed* , Battery Storage ,Full Commercial Use Date,2025.0
+78,NSW,Existing Plant,Finley Solar Farm,Finley Solar Farm Pty Ltd as The trustee for Finley Solar Trust,Solar - Solar,99,1.64,162.36,, In Service , Solar ,Full Commercial Use Date,2019.0
+79,NSW,Existing Plant,Flyers Creek Wind Farm,Flyers Creek Wind Farm Pty Ltd,Wind - Wind,38,3.83,145.54,, In Service , Wind ,Full Commercial Use Date,2024.0
+80,VIC,Project,Frasers Solar Farm,Frasers Lane Development Pty Ltd,Solar - Solar,1,77,77,, Anticipated , Solar ,Full Commercial Use Date,2025.0
+81,VIC,Project,Girgarre Solar Farm,Giragarre Solar Farm Pty Ltd as trustee for Giragarre Solar Farm Trust,Solar - Solar,57,1.64,93.48,, Committed , Solar ,Full Commercial Use Date,2024.0
+82,VIC,Existing Plant,Glenrowan Solar Farm,Glenrowan Solar Farm Pty Ltd as trustee for Glenrowan Solar Farm Trust,Solar - Solar,30,2.75,82.5,, In Service , Solar ,Full Commercial Use Date,2024.0
+83,VIC,Existing Plant,Glenrowan West Solar Farm,Glenrowan Sun Farm Pty Ltd,Solar - Solar,48,2.75,132,, In Service , Solar ,Full Commercial Use Date,2021.0
+84,VIC,Project,Gnarwarre BESS Facility,FRV SA Pty Ltd,Other - Other,100,2.9,290,550.0, Anticipated , Battery Storage ,Full Commercial Use Date,2027.0
+85,VIC,Project,Golden Plains Wind Farm East,Golden Plains WF1 Pty Ltd as trustee for the Golden Plains WF1 Unit Trust,Wind - Wind,122,6.2,756.4,, Committed , Wind ,Full Commercial Use Date,2025.0
+86,NSW,Existing Plant,Goonumbla Solar Farm,Goonumbla Asset Co Pty Ltd as trustee for the Goonumbla Asset Trust,Solar - Solar,31,2.25,69.75,, In Service , Solar ,Full Commercial Use Date,2021.0
+87,SA,Project,Goyder South Wind Farm 1A,Goyder Wind Farm 1 Trust,Wind - Wind,38,5.5,209,, Committed , Wind ,Full Commercial Use Date,2024.0
+88,SA,Project,Goyder South Wind Farm 1B,Goyder Wind Farm 1B Trust,Wind - Wind,37,5.5,203.5,, Committed , Wind ,Full Commercial Use Date,2024.0
+89,TAS,Existing Plant,Granville Harbour Wind Farm,Granville Harbour Operations Pty Ltd as trustee for Granville Harbour Operations Trust,Wind - Wind,31,3.6,111.6,, In Service , Wind ,Full Commercial Use Date,2020.0
+90,TAS,Project,Great Lakes Battery,Neoen Australia Pty Ltd,Other - Other,1,100,100,100.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2026.0
+91,QLD,Project,Greenbank BESS,CSENERGY,Other - Other,1,200,200,400.0, Committed , Battery Storage ,Full Commercial Use Date,2025.0
+92,NSW,Existing Plant,Gullen Range Wind Farm 2,BEIJING JINGNENG CLEAN ENERGY (AUSTRALIA) HOLDING PTY LTD,Wind - Wind,31,3.57,110.67,, In Service , Wind ,Full Commercial Use Date,2023.0
+93,NSW,Existing Plant,Gunnedah Solar Farm,Gunnedah SF Pty Ltd atf Gunnedah Asset Trust,Solar - Solar,1,110,110,, In Service , Solar ,Full Commercial Use Date,2021.0
+94,SA,Existing Plant,Happy Valley Reservoir,South Australian Water Corporation,Solar - Solar,3,2.78,8.34,, In Service , Solar ,Full Commercial Use Date,2022.0
+95,SA,Existing Plant,Happy Valley Reservoir,South Australian Water Corporation,Other - Other,1,4.41,4.41,8.82, In Service , Battery Storage ,Full Commercial Use Date,2022.0
+96,QLD,Existing Plant,Haughton Solar Farm Stage 1,Pacific Hydro Haughton Solar Farm Pty Ltd,Solar - Solar,81,1.64,132.6,, In Service , Solar ,Full Commercial Use Date,2020.0
+97,VIC,Existing Plant,Hazelwood Battery Energy Storage System (HBESS),Hazelwood BESS Project Co Pty Ltd as trustee for the HBESS Asset Trust,Other - Other,1,200.07,200.07,162.0, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+98,NSW,Existing Plant,Hillston Sun Farm,Hillston Sun Farm Operations Pty Ltd ATF Hillston,Solar - Solar,40,2.75,110,, In Service , Solar ,Full Commercial Use Date,2022.0
+99,SA,Existing Plant,Hornsdale Power Reserve Unit 1,Hornsdale Power Reserve Pty Ltd,Other - Other,1,50,50,61.3, In Service , Battery Storage ,Full Commercial Use Date,2020.0
+100,VIC,Project,Horsham Solar Farm,ESCO SOLAR FARM 7 PTY LTD,Solar - Solar,36,3.3,118.8,, Anticipated , Solar ,Full Commercial Use Date,2024.0
+101,QLD,Existing Plant,Hughenden Sun Farm,Hughenden Solar Pty Ltd as Trustee for Hughenden Solar Trust,Solar - Solar,18,1.17,20.97,, In Service , Solar ,Full Commercial Use Date,2022.0
+102,NSW,Project,Hunter Power Station,Snowy Hydro Limited,Fossil - Natural Gas Pipeline,1,375,375,, Committedï¿½  , OCGT ,Full Commercial Use Date,2024.0
+103,NSW,Project,Hunter Power Station,Snowy Hydro Limited,Fossil - Natural Gas Pipeline,1,375,375,, Committedï¿½  , OCGT ,Full Commercial Use Date,2024.0
+104,QLD,Project,Innes Park Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,6,4,24,, Publicly Announced , Solar ,Full Commercial Use Date,2026.0
+105,NSW,Existing Plant,Jemalong Solar,Genex Power,Solar - Solar,20,2.75,55,0.0, In Service , Solar ,Full Commercial Use Date,2021.0
+106,QLD,Existing Plant,Kaban Wind Farm,Kaban Wind Farm Trust,Wind - Wind,28,5.6,156.8,, In Service , Wind ,Full Commercial Use Date,2023.0
+107,NSW,Existing Plant,Kanowna Solar Farm,Kanowna Solar Pty Ltd,Solar - Solar,2,2.5,5,, In Service , Solar ,Full Commercial Use Date,2019.0
+108,VIC,Existing Plant,Karadoc Solar Farm,Iraak Sun Farm Pty Ltd,Solar - Solar,38,2.75,104.5,, In Service , Solar ,Full Commercial Use Date,2018.0
+109,QLD,Existing Plant,Kennedy Energy Park - Phase 1 - Solar,Windlab / Eurus,Solar - Solar,6,2.5,15,0.0, In Commissioning , Solar ,Full Commercial Use Date,2024.0
+110,QLD,Existing Plant,Kennedy Energy Park - Phase 1 - Storage,Windlab/Eurus,Other - Other,4,0.5,2,4.0, In Commissioning , Battery Storage ,Full Commercial Use Date,2024.0
+111,QLD,Existing Plant,Kennedy Energy Park - Phase 1 - Wind,Windlab / Eurus,Wind - Wind,12,3.6,43.2,, In Commissioning , Wind ,Full Commercial Use Date,2024.0
+112,VIC,Project,Kerang BESS,Kerang Bess Pty Ltd,Other - Other,44,2.4,105.6,200.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2025.0
+113,VIC,Existing Plant,Kiamal Solar Farm - Stage 1,KSF Project Nominees Pty Ltd ATF KSF Project Trust,Solar - Solar,150,1.33,199.95,0.0, In Service , Solar ,Full Commercial Use Date,2022.0
+114,QLD,Project,Kidston Pumped Storage Hydro Project 250MW,Genex Power Ltd,Hydro - Water,2,125,250,2000.0, Committed , Water ,Full Commercial Use Date,2025.0
+115,QLD,Existing Plant,Kidston Solar Project Phase One 50MW,Genex Power Limited,Solar - Solar,20,2.5,50,0.0, In Service , Solar ,Full Commercial Use Date,2017.0
+116,VIC,Project,Koorangie Energy Storage System ,Edify Energy,Other - Other,1,185,185,370.0, Committed , Battery Storage ,Full Commercial Use Date,2025.0
+117,QLD,Existing Plant,Lilyvale Solar Farm,Lilyvale Asset Co Pty Ltd ATF Lilyvale Asset Trust,Solar - Solar,74,1.6,118.4,, In Service , Solar ,Full Commercial Use Date,2022.0
+118,NSW,Existing Plant,Limondale Solar Farm 1,Limondale Sun Farm Pty Ltd,Solar - Solar,100,2.3,230,, In Service , Solar ,Full Commercial Use Date,2022.0
+119,NSW,Existing Plant,Limondale Solar Farm 2,Limondale Sun Farm Pty Ltd,Solar - Solar,14,2.07,28.98,0.0, In Service , Solar ,Full Commercial Use Date,2023.0
+120,SA,Project,Lincoln Gap Wind Farm - BESS,Lincoln Gap Wind Farm Pty Ltd,Other - Other,1,10,10,10.0, Anticipated , Battery Storage ,Full Commercial Use Date,2024.0
+121,SA,Existing Plant,Lincoln Gap Wind Farm - stage 1,Lincoln Gap Wind Farm Pty Ltd,Wind - Wind,35,3.6,126,0.0, In Service , Wind ,Full Commercial Use Date,2020.0
+122,SA,Existing Plant,Lincoln Gap Wind Farm - Stage 2,Lincoln Gap Wind Farm Pty Ltd,Wind - Wind,24,3.6,86.4,, In Service , Wind ,Full Commercial Use Date,2022.0
+123,QLD,Project,MacIntyre Wind Farm,Macintyre Windfarm Pty Ltd and Arc Energy Macintyre Pty Ltd,Wind - Wind,162,5.7,923.4,, Committed* , Wind ,Full Commercial Use Date,2024.0
+124,NSW,Existing Plant,Manildra Solar Farm,Manildra Prop Pty Ltd as trustee for the Manildra Asset Trust,Solar - Solar,20,2.5,50,, In Service , Solar ,Full Commercial Use Date,2018.0
+125,SA,Existing Plant,Mannum Adelaide Pumping Station No 2 - MAPL2 (Palmer),South Australian Water Corporation,Solar - Solar,6,2.8,16.8,, In Service , Solar ,Full Commercial Use Date,2022.0
+126,SA,Existing Plant,Mannum Adelaide Pumping Station No 3 - MAPL3 (Tungkillo),South Australian Water Corporation,Solar - Solar,6,2.06,12.36,, In Service , Solar ,Full Commercial Use Date,2023.0
+127,SA,Existing Plant,Mannum Solar Farm,Mannum Solar Farm Pty Ltd,Solar - Solar,1,4.95,4.95,, In Service , Solar ,Full Commercial Use Date,2019.0
+128,SA,Existing Plant,Mannum Solar Farm 2,Mannum Stage 2 SubCo Pty Ltd as trustee for the Mannum Stage 2 Unit Trust,Solar - Solar,11,2.73,29.99,, In Commissioning , Solar ,Full Commercial Use Date,2024.0
+129,QLD,Existing Plant,Maryrorough Solar Farm,Maryrorough Solar Pty Ltd,Solar - Solar,1,34.5,34.5,, In Service , Solar ,Full Commercial Use Date,2021.0
+130,NSW,Project,Maryvale Solar and Energy Storage System,Maryvale Solar Farm Pty Ltd ,Other - Other,61,2.82,172.02,5.73, Anticipated , Battery Storage ,Full Commercial Use Date,2027.0
+131,NSW,Project,Maryvale Solar and Energy Storage System,Maryvale Solar Farm Pty Ltd ,Solar - Solar,61,2.82,172.02,, Anticipated , Solar ,Full Commercial Use Date,2027.0
+132,VIC,Project,Melbourne Renewable Energy Hub - Side A,MREH Pty Ltd as trustee for MREH Asset Trust,Other - Other,1,600,600,1600.0, Committed , Battery Storage ,Full Commercial Use Date,2025.0
+133,NSW,Existing Plant,Metz Solar Farm,Metz ProjectCo Pty Ltd as trustee for Metz ProjectCo Trust ,Solar - Solar,54,2.5,135,, In Service , Solar ,Full Commercial Use Date,2023.0
+134,QLD,Existing Plant,Middlemount Solar Farm,Capricorn SF No1 Pty Ltd,Solar - Solar,1,26,26,, In Service , Solar ,Full Commercial Use Date,2021.0
+135,NSW,Existing Plant,Molong Solar Farm,Molong Operations co Pty Ltd ATF Molong Operations Trust,Solar - Solar,22,1.64,36.08,, In Service , Solar ,Full Commercial Use Date,2021.0
+136,VIC,Existing Plant,Moorabool Wind Farm,Moorabool Wind Farm Interface Company Pty Ltd,Wind - Wind,104,3,312,, In Service , Wind ,Full Commercial Use Date,2022.0
+137,SA,Existing Plant,Morgan To Whyalla Pipeline No 1 PS And Water Filtration Plant,South Australian Water Corporation,Solar - Solar,2,3.06,6.12,, In Service , Solar ,Full Commercial Use Date,2022.0
+138,SA,Existing Plant,Morgan To Whyalla Pipeline No 2 PS,South Australian Water Corporation,Solar - Solar,2,2.94,5.88,, In Service , Solar ,Full Commercial Use Date,2022.0
+139,SA,Existing Plant,Morgan To Whyalla Pipeline No 3 PS,South Australian Water Corporation,Solar - Solar,3,2.46,7.38,, In Service , Solar ,Full Commercial Use Date,2022.0
+140,SA,Existing Plant,Morgan To Whyalla Pipeline No 4 PS,South Australian Water Corporation,Solar - Solar,2,2.94,5.88,, In Service , Solar ,Full Commercial Use Date,2022.0
+141,VIC,Project,Mornington BESS,Mornington BESS Project Pty Ltd as Trustee of Mornington BESS Project Trust,Other - Other,1,240,240,480.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2026.0
+142,VIC,Existing Plant,Mortlake South Wind Farm,Mortlake South Wind Farm Pty Ltd,Wind - Wind,35,4.5,157.5,, In Service , Wind ,Full Commercial Use Date,2023.0
+143,QLD,Existing Plant,Mount Emerald,Ratch Australia,Wind - Wind,53,3.41,180.52,, In Service , Wind ,Full Commercial Use Date,2018.0
+144,QLD,Project,Mount Hopeful Wind Farm,Neoen Australia Pty Ltd,Wind - Wind,1,370,370,, Publicly Announced , Wind ,Full Commercial Use Date,2026.0
+145,QLD,Existing Plant,Moura Solar Farm,Moura Solar Farm SPV Pty Ltd as the Trustee for Moura Solar Farm Unit Trust,Solar - Solar,36,2.75,99,, In Service , Solar ,Full Commercial Use Date,2023.0
+146,VIC,Existing Plant,Mt Gellibrand Wind Farm,ACCIONA Energy,Wind - Wind,44,3.15,138.6,, In Service , Wind ,Full Commercial Use Date,2018.0
+147,NSW,Existing Plant,Mt Piper,EnergyAustralia NSW Pty Ltd,Fossil - Black Coal,1,660,660,, In Service , Coal ,Full Commercial Use Date,2027.0
+148,QLD,Project,Munna Creek Solar Farm,Munna Creek Solar Farm Investments Pty Ltd as trustee for the Munna Creek Solar Farm Trust,Solar - Solar,56,2.75,154,, Anticipated , Solar ,Full Commercial Use Date,2024.0
+149,VIC,Existing Plant,Murra Warra Wind Farm - stage 1,Murra Warra Project Co Pty Ltd,Wind - Wind,61,3.7,225.7,, In Service , Wind ,Full Commercial Use Date,2021.0
+150,VIC,Existing Plant,Murra Warra Wind Farm - stage 2,Murra Warra II Project Co Pty Ltd as Trustee for the Murra Warra II Project Trust,Wind - Wind,38,5.5,209,, In Service , Wind ,Full Commercial Use Date,2022.0
+151,SA,Existing Plant,Murray Bridge - Onkaparinga Pipeline Pump 2,South Australian Water Corporation,Solar - Solar,6,2.29,13.74,, In Service , Solar ,Full Commercial Use Date,2022.0
+152,NSW,Project,Narrabri Hybrid Project, Narrabri Genesis Hold Pty Ltd ATF Narrabri Genesis Hold Trust,Other - Other,1,3.6,3.6,400.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2027.0
+153,QLD,Project,Nebo BESS,Nebo BESS Pty Ltd,Other - Other,1,900,900,3600.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2028.0
+154,NSW,Existing Plant,Nevertire Solar Farm,Nevertire Solar Pty Ltd as Trustee for the Nevertire Solar Trust,Solar - Solar,48,2.18,104.64,, In Service , Solar ,Full Commercial Use Date,2020.0
+155,NSW,Existing Plant,New England Solar Farm,ACEN AUSTRALIA,Solar - Solar,1,200,200,, In Service , Solar ,Full Commercial Use Date,2023.0
+156,NSW,Existing Plant,New England Solar Farm,ACEN AUSTRALIA,Solar - Solar,1,200,200,, In Service , Solar ,Full Commercial Use Date,2023.0
+157,VIC,Existing Plant,Numurkah Solar Farm,Numurkah Solar Farm Pty Ltd,Solar - Solar,37,1.81,66.79,, In Service , Solar ,Full Commercial Use Date,2019.0
+158,VIC,Existing Plant,Numurkah Solar Farm,Numurkah Solar Farm Pty Ltd,Solar - Solar,19,1.81,34.3,, In Service , Solar ,Full Commercial Use Date,2019.0
+159,QLD,Existing Plant,Oakey 2 Solar Farm,RE Oakey Pty Ltd,Solar - Solar,26,2.14,55.64,, In Service , Solar ,Full Commercial Use Date,2022.0
+160,QLD,Existing Plant,Oakey Solar Farm,Oakey1 Asset Co Pty Ltd,Solar - Solar,1,25,25,, In Service , Solar ,Full Commercial Use Date,2019.0
+161,VIC,Existing Plant,Philip Island BESS,Mondo Power,Other - Other,1,5,5,10.0, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+162,SA,Existing Plant,Port Augusta Renewable Energy Park - Solar,PAREP 1 Pty Ltd,Solar - Solar,36,2.2,79.2,, In Service , Solar ,Full Commercial Use Date,2023.0
+163,NSW,Existing Plant,Queanbeyan BESS,Berrybank 2 Asset Pty Ltd as Trustee for Berrybank 2 Asset Trust,Other - Other,1,10,10,20.0, In Service , Battery Storage ,Full Commercial Use Date,2022.0
+164,NSW,Project,Quorn Park Hybrid,Quorn Park Solar Farm Pty Ltd as the trustee for Quorn Park Solar Farm Trust,Solar - Solar,22,4.4, 87.12 - 96.80 ,, Committed , Solar ,Full Commercial Use Date,2025.0
+165,NSW,Project,Quorn Park Hybrid,Quorn Park Solar Farm Pty Ltd as the trustee for Quorn Park Solar Farm Trust,Other - Other,8,3.45, 23.44 - 27.60 ,40.0, Committed , Battery Storage ,Full Commercial Use Date,2025.0
+166,VIC,Project,Red Cliffs Solar & BESS - KCI,Red Cliffs Power Pty td,Solar - Solar,1,60,60,, Publicly Announced , Solar ,Full Commercial Use Date,2026.0
+167,NSW,Existing Plant,Riverina Energy Storage System 1,Shell New Energies Australia Pty Ltd,Other - Other,1,60,60,120.0, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+168,NSW,Existing Plant,Riverina Energy Storage System 2,RESS 2 Pty Ltd,Other - Other,1,65,65,130.0, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+169,NSW,Project,Riverina Solar Farm,Riverina Solar Pty Ltd,Solar - Solar,360,0.09,32.4,, Committed , Solar ,Full Commercial Use Date,2025.0
+170,SA,Existing Plant,RMGE94,The Trustee for Dale Calderbank Investment Trust & The Trustee for Mark Yates Family Trust,Solar - Solar,1,0.05,0.05,, In Service , Solar ,Full Commercial Use Date,2022.0
+171,QLD,Existing Plant,Rugby Run Solar Farm,Adani Rugby Run Pty Ltd,Solar - Solar,1,65,65,, In Service , Solar ,Full Commercial Use Date,2020.0
+172,NSW,Existing Plant,Rye Park Wind Farm,Tilt Renewables Australia Pty Ltd,Wind - Wind,66,6,396,, In Commissioning , Wind ,Full Commercial Use Date,2024.0
+173,NSW,Project,Sapphire Wind Farm,SWF1 Operations Holdings Pty Ltd as trustee for SWF1 Hold Trust,Other - Other,1,30,30,38.0, Anticipated , Battery Storage ,Full Commercial Use Date,2025.0
+174,NSW,Project,Sebastopol Solar Farm,Sebastopol Asset Co Pty Ltd ATF Sebastopol Asset Trust,Solar - Solar,40,2.25,90,, Committed , Solar ,Full Commercial Use Date,2023.0
+175,NSW,Project,Silver City Energy Storage,A-CAES NSW PTY LTD,Other - Other,2,100,200,1600.0, Anticipated , Battery Storage ,Full Commercial Use Date,2027.0
+176,NSW,Existing Plant,Silverton Wind Farm,PARF Company 8 Pty Ltd as trustee for the Silverton Project Trust,Wind - Wind,58,3.43,198.94,, In Service , Wind ,Full Commercial Use Date,2020.0
+177,SA,Existing Plant,Snapper Point Power Station,Port Adelaide Energy Pty Ltd,Fossil - Diesel,5,30.8,154,, In Service , OCGT ,Full Commercial Use Date,2022.0
+178,NSW,Project,Snowy 2.0.,Snowy Hydro Ltd,Hydro - Water,4,367,"1,468.00",233320.0, Committedï¿½  , Water ,Full Commercial Use Date,2028.0
+179,NSW,Project,Snowy 2.0.,Snowy Hydro Ltd,Hydro - Water,2,366,732,116660.0, Committedï¿½  , Water ,Full Commercial Use Date,2028.0
+180,VIC,Project,Stanhope BESS Project 01,Globird Energy Pty Ltd,Solar - Solar,1,20,20,20.0, Publicly Announced , Battery Storage ,Full Commercial Use Date,2026.0
+181,VIC,Project,Stanhope BESS Project 02,globirdenergy_NR,Solar - Solar,1,5,5,, Publicly Announced , Solar ,Full Commercial Use Date,2026.0
+182,QLD,Project,Stanwell BESS,Stanwell Corporation Limited,Other - Other,1,300,300,1200.0, Anticipated , Battery Storage ,Full Commercial Use Date,2027.0
+183,VIC,Existing Plant,Stockyard Hill Wind Farm,Stockyard Hill Wind Farm Pty Ltd,Wind - Wind,128,3.57,456.96,, In Service , Wind ,Full Commercial Use Date,2022.0
+184,VIC,Existing Plant,Stockyard Hill Wind Farm,Stockyard Hill Wind Farm Pty Ltd,Wind - Wind,19,3.4,64.6,, In Service , Wind ,Full Commercial Use Date,2022.0
+185,VIC,Existing Plant,Stockyard Hill Wind Farm,Stockyard Hill Wind Farm Pty Ltd,Wind - Wind,2,3,6,, In Service , Wind ,Full Commercial Use Date,2022.0
+186,NSW,Project,Stubbo Solar Farm,ACEN AUSTRALIA,Solar - Solar,2,200,400,, Committed , Solar ,Full Commercial Use Date,2024.0
+187,NSW,Existing Plant,Sunraysia Solar Farm,Sunraysia Solar Project Pty Ltd,Solar - Solar,104,2.2,228.8,, In Service , Solar ,Full Commercial Use Date,2021.0
+188,NSW,Existing Plant,Suntop Solar Farm,Suntop SF Pty Ltd As Trustee For The Suntop Asset,Solar - Solar,1,150,150,, In Service , Solar ,Full Commercial Use Date,2021.0
+189,QLD,Existing Plant,Susan River Solar Farm,Susan River Solar Pty Ltd as trustee for the Susan River Solar Trust,Solar - Solar,49,1.74,85.26,, In Service , Solar ,Full Commercial Use Date,2019.0
+190,QLD,Project,Swanbank BESS,CleanCo QLD Limited,Other - Other,1,250,250,500.0, Anticipated , Battery Storage ,Full Commercial Use Date,2026.0
+191,SA,Existing Plant,Tailem Bend - Solar,Vena Energy,Solar - Solar,1,108,108,, In Service , Solar ,Full Commercial Use Date,2019.0
+192,SA,Existing Plant,Tailem Bend Battery Project,Vena Energy,Other - Other,1,41.5,41.5,84.0, In Service , Battery Storage ,Full Commercial Use Date,2024.0
+193,SA,Existing Plant,Tailem Bend Stage 2 Solar Project,Vena Energy,Solar - Solar,1,105,105,, In Commissioning , Solar ,Full Commercial Use Date,2023.0
+194,NSW,Existing Plant,Tallawarra B,EnergyAustralia Tallawarra Pty Ltd ,Fossil - Natural Gas Pipeline,1,320,320,, In Service , OCGT ,Full Commercial Use Date,2024.0
+195,NSW,Project,Tamworth Solar Farm,Tamworth Solar Farm Pty Ltd,Solar - Solar,1,65,65,, Anticipated , Solar ,Full Commercial Use Date,2026.0
+196,QLD,Project,Tarong BESS - Stanwell,Stanwell Corporation Limited,Other - Other,1,300,300,600.0, Committed* , Battery Storage ,Full Commercial Use Date,2024.0
+197,SA,Project,Templers BESS,ZEN Energy Future Pty Ltd,Other - Other,1,111,111,291.0, Committed , Battery Storage ,Full Commercial Use Date,2025.0
+198,NSW,Project,Tenterfield Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,7,4.2,29.4,, Publicly Announced , Solar ,Full Commercial Use Date,2026.0
+199,NSW,Project,Tilbuster Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,152,1.64,248.82,, Committed , Solar ,Full Commercial Use Date,2026.0
+200,VIC,Existing Plant,Timboon West Wind Farm,Timboon West Wind Farm Pty Ltd,Wind - Wind,2,3.6,7.2,, In Service , Wind ,Full Commercial Use Date,2018.0
+201,SA,Existing Plant,Torrens Island BESS,TIPSCO,Other - Other,109,2.3,250.7,250.0, In Service , Battery Storage ,Full Commercial Use Date,2023.0
+202,QLD,Project,Ulinda Park BESS,Ulinda Park ProjectCo Pty Ltd in its capacity as trustee for the Ulinda Park Project Trust,Other - Other,52,2.98,154.96,298.0, Anticipated , Battery Storage ,Full Commercial Use Date,2025.0
+203,VIC,Existing Plant,Victorian Big Battery,Victorian Big Battery Pty Ltd,Other - Other,1,300,300,450.0, In Service , Battery Storage ,Full Commercial Use Date,2021.0
+204,NSW,Existing Plant,Wagga North Solar Farm,Wagga Wagga Operationsco Pty Ltd as trustree for Wagga Wagga Operations Trust,Solar - Solar,12,1.64,19.64,, In Service , Solar ,Full Commercial Use Date,2023.0
+205,NSW,Project,Walla Walla Solar Farm,FRV Australia (Walla Walla Asset Co Pty Ltd (ACN 634 728 868) as trustee for the Walla Walla Asset Trust),Solar - Solar,48,3.17,151.97,, Committed , Solar ,Full Commercial Use Date,2024.0
+206,NSW,Project,Walla Walla Solar Farm,FRV Australia (Walla Walla Asset Co Pty Ltd (ACN 634 728 868) as trustee for the Walla Walla Asset Trust),Solar - Solar,48,3.17,151.97,, Committed , Solar ,Full Commercial Use Date,2024.0
+207,NSW,Existing Plant,Wallgrove Grid Battery project,TransGrid,Other - Other,1,50,50,75.0, In Service , Battery Storage ,Full Commercial Use Date,2021.0
+208,QLD,Existing Plant,Wandoan South BESS,Vena Evergy,Other - Other,1,100,100,150.0, In Service , Battery Storage ,Full Commercial Use Date,2022.0
+209,QLD,Existing Plant,Wandoan South Solar Stage 1,Vena Evergy,Solar - Solar,1,160,160,, In Service , Solar ,Full Commercial Use Date,2023.0
+210,NSW,Project,Waratah Super Battery,Munmorah Battery Projectco Pty Ltd,Other - Other,288,2.95,850.18,1680.0, Committed , Battery Storage ,Full Commercial Use Date,2025.0
+211,QLD,Existing Plant,Warwick Solar Farm,The University of Queensland,Solar - Solar,8,4.01,32.1,, In Service , Solar ,Full Commercial Use Date,2023.0
+212,QLD,Existing Plant,Warwick Solar Farm,The University of Queensland,Solar - Solar,8,4.01,32.1,, In Service , Solar ,Full Commercial Use Date,2023.0
+213,NSW,Existing Plant,Wellington Solar Farm,Lightsource Australia SPV 4 Pty Ltd,Solar - Solar,132,1.64,216.08,, In Service , Solar ,Full Commercial Use Date,2022.0
+214,VIC,Existing Plant,Wemen Solar Farm,Wemen Asset Co Pty Ltd as Trustee to Wemen Solar Unit Trust,Solar - Solar,39,2.5,97.5,, In Service , Solar ,Full Commercial Use Date,2019.0
+215,NSW,Existing Plant,West Wyalong Solar Farm,West Wyalong Fund Pty Ltd,Solar - Solar,29,3.63,105.27,, In Service , Solar ,Full Commercial Use Date,2022.0
+216,QLD,Project,Western Downs Battery,Western Downs BESS Trust,Other - Other,140,1.82,254.94,500.0, Committed , Battery Storage ,Full Commercial Use Date,2024.0
+217,QLD,Existing Plant,Western Downs Green Power Hub P/L,Western Downs Green Power Hub Pty Ltd,Solar - Solar,167,2.4,399.97,, In Service , Solar ,Full Commercial Use Date,2023.0
+218,SA, Existing Plant ,Willogoleche Wind Farm, Willogoleche Power Pty Ltd , Wind - Wind ,24,3.83,91.92,, In Service , Wind ,Full Commercial Use Date,2019.0
+219,SA, Existing Plant ,Willogoleche Wind Farm, Willogoleche Power Pty Ltd , Wind - Wind ,8,3.43,27.44,, In Service , Wind ,Full Commercial Use Date,2019.0
+220,NSW, Project ,Winterbourne Wind Farm, WinterbourneWind Pty Ltd , Wind - Wind ,118,6.2,731.6,, Publicly Announced , Wind ,Full Commercial Use Date,1930.0
+221,NSW, Project ,Wollar Solar Farm, Wollar Solar Development Pty Ltd , Solar - Solar ,1,280,280,, Committed , Solar ,Full Commercial Use Date,2024.0
+222,QLD,Existing Plant,Woolooga Solar Farm,Woolooga Fund Pty Ltd,Solar - Solar,89,2.5,222.5,, In Service , Solar ,Full Commercial Use Date,2022.0
+223,NSW, Existing Plant ,Wyalong Solar Farm, Wyalong Solar Farm Pty Ltd as the trustee for the Wyalong Solar Farm Unit Trust , Solar - Solar ,38,1.64,62.32,, In Service , Solar ,Full Commercial Use Date,2022.0
+224,QLD, Project ,Yabulu Solar Farm, Yabulu Solar Farm Pty Ltd , Solar - Solar ,22,4.2,92.4,, Publicly Announced , Solar ,Full Commercial Use Date,2026.0
+225,NSW, Project ,Yanco Solar Farm, Origin Energy , Solar - Solar ,1,60,60,, Publicly Announced , Solar ,Full Commercial Use Date,2026.0
+226,QLD, Existing Plant ,Yarranlea Solar Farm, Yarranlea Solar Pty Ltd , Solar - Solar ,44,2.34,102.96,, In Service , Solar ,Full Commercial Use Date,2021.0
+227,VIC, Existing Plant ,Yawong Wind Farm, Yawong Wind Farm Pty Ltd , Wind - Wind ,2,3.6,7.2,, In Service , Wind ,Full Commercial Use Date,2018.0
+228,VIC, Existing Plant ,Yendon Wind Farm, Northleaf /InfraRed/Macquarie Capital , Wind - Wind ,38,3.8,144.4,0.0, In Service , Wind ,Full Commercial Use Date,2021.0
+229,SA, Project ,Yorke Peninsula Wind Farm, Yorke Peninsula Wind Farm Project Pty Ltd , Wind - Wind ,104,7.2, 624.00 - 748.80 ,, Publicly Announced , Wind ,Full Commercial Use Date,1930.0
+230,SA,Existing Plant,Adelaide Desalination Plant,South Australian Water Corporation,Solar - Solar,4,2.75,11,, In Service , Solar ,Expected Closure Year,2041.0
+231,SA,Existing Plant,Adelaide Desalination Plant,South Australian Water Corporation,Other - Other,1,6.27,6.27,12.6, In Service , Battery Storage ,Expected Closure Year,2041.0
+232,SA,Existing Plant,Adelaide Desalination Plant,South Australian Water Corporation,Solar - Solar,4,3.43,13.72,, In Service , Solar ,Expected Closure Year,2041.0
+233,QLD,Project,Aldoga BESS Stage 1,Acciona Energy Australia Global,Other - Other,1,400, 200.00 - 400.00 ,400.0, Anticipated , Battery Storage ,Expected Closure Year,2049.0
+234,QLD,Project,Aramara Solar Farm,Aramara Solar Pty Ltd,Solar - Solar,1,101.4,101.4,, Anticipated , Solar ,Expected Closure Year,2048.0
+235,NSW,Project,Armidale BESS,VALENT ENERGY DEVELOPMENTS PTY LTD,Other - Other,1,150,150,300.0, Publicly Announced , Battery Storage ,Expected Closure Year,2045.0
+236,NSW,Existing Plant,Avonlie Solar Farm,Iberdrola Australia Limited,Solar - Solar,70,3.63,254.1,, In Service , Solar ,Expected Closure Year,2058.0
+237,QLD,Existing Plant,Baking Board Solar Farm Chinchilla,Chinchilla Solar Pty Ltd,Solar - Solar,1,14.7,14.7,, In Service , Solar ,Expected Closure Year,2044.0
+238,QLD,Project,Banana Range Wind Farm,Orange Creek Energy Pty Ltd,Wind - Wind,54,6,324,, Publicly Announced , Wind ,Expected Closure Year,2057.0
+239,QLD,Project,Banana Range Wind Farm,Orange Creek Energy Pty Ltd,Wind - Wind,38,6,228,, Publicly Announced , Wind ,Expected Closure Year,2056.0
+240,NSW,Existing Plant,Bango 973 Wind Farm,BWF Nominees Pty Ltd as trustee for the BWF Trust,Wind - Wind,30,5.3,159,, In Service , Wind ,Expected Closure Year,2045.0
+241,NSW,Existing Plant,Bango 999 Wind Farm,BWF Nominees Pty Ltd as trustee for the BWF Trust,Wind - Wind,16,5.3,84.8,, In Service , Wind ,Expected Closure Year,2045.0
+242,VIC,Existing Plant,Bannerton Solar Park,Foresight Solar Australia Pty Ltd,Solar - Solar,40,2.5,100,, In Service , Solar ,Expected Closure Year,2049.0
+243,SA,Existing Plant,Barker Inlet Power Station,AGL Barker Inlet Pty Ltd,Fossil - Natural Gas Pipeline,12,17.5,210,, In Service , Gas other ,Expected Closure Year,2044.0
+244,SA,Project,Baroota Pumped Hydro Project,ACEN Renewables,Hydro - Water,2,125,250,0.0, Publicly Announced , Water ,Expected Closure Year,2072.0
+245,VIC,Existing Plant,Berrybank Wind Farm,Berrbank Development Pty ltd,Wind - Wind,43,4.2,180.6,, In Service , Wind ,Expected Closure Year,2050.0
+246,VIC,Existing Plant,Berrybank Wind Farm,Berrbank Development Pty ltd,Wind - Wind,26,4.2,109.2,, In Service , Wind ,Expected Closure Year,2052.0
+247,NSW,Existing Plant,Beryl Solar Farm,FS NSW Project No 1 AT Pty Ltd as trustee of FS NSW Project No 1 Asset Trust,Solar - Solar,60,1.64,98.4,0.0, In Service , Solar ,Expected Closure Year,2049.0
+248,QLD,Existing Plant,Bluegrass Solar Farm,X-Elio Australia Pty Ltd,Solar - Solar,1,148,148,0.0, In Service , Solar ,Expected Closure Year,2057.0
+249,SA,Project,Blyth BESS,Neoen Australia Pty Ltd,Other - Other,64,3.13,200,400.0, Committed , Battery Storage ,Expected Closure Year,2044.0
+250,NSW,Existing Plant,Bodangora Wind Farm,Bodangora Wind Farm Pty Ltd,Wind - Wind,33,3.43,113.19,, In Service , Wind ,Expected Closure Year,2049.0
+251,SA,Existing Plant,Bolivar Power Station,Iberdrola Australia Energy Markets Pty Limited,Fossil - Natural Gas Pipeline,4,30.8,123.2,, In Service , OCGT ,Expected Closure Year,2045.0
+252,SA,Existing Plant,Bolivar Waste Water Treatment,South Australian Water Corporation,Solar - Solar,3,3.75,11.25,, In Service , Solar ,Expected Closure Year,2045.0
+253,SA,Existing Plant,Bolivar Waste Water Treatment,South Australian Water Corporation,Other - Other,1,2.46,2.46,5.04, In Service , Battery Storage ,Expected Closure Year,2045.0
+254,NSW,Existing Plant,Bomen Solar Farm,Spark Infrastructure Holdings No. 6 Pty Limited,Solar - Solar,44,2.75,121,0.0, In Service , Solar ,Expected Closure Year,2050.0
+255,NSW,Project,Bonshaw Solar Farm,GAIA Australia Pty Ltd,Solar - Solar,1,200,200,, Publicly Announced , Solar ,Expected Closure Year,2053.0
+256,QLD,Project,Borumba,Queensland Hydro,Hydro - Water,6,333,"1,998.00",48000.0, Anticipated , Water ,Expected Closure Year,2130.0
+257,QLD,Existing Plant,Bouldercombe Battery project,Genex Power Limited,Other - Other,40,1.25,50,100.0, In Service , Battery Storage ,Expected Closure Year,2042.0
+258,NSW,Existing Plant,Broken Hill,MACQGEN,Other - Other,1,50,50,50.0, In Commissioning , Battery Storage ,Expected Closure Year,2043.0
+259,VIC,Existing Plant,Bulgana Green Power Hub - BESS,Bulgana Wind Farm Pty Ltd,Other - Other,40,0.5,20,34.0, In Service , Battery Storage ,Expected Closure Year,2049.0
+260,VIC,Existing Plant,Bulgana Green Power Hub - Wind Farm,Bulgana Wind Farm Pty Ltd,Wind - Wind,56,3.65,204.4,, In Service , Wind ,Expected Closure Year,2049.0
+261,QLD,Project,Bundaberg Solar Farm,Bundaberg Development Pty Ltd,Solar - Solar,1,78,78,, Committed , Solar ,Expected Closure Year,2050.0
+262,SA,Existing Plant,Bungala One Solar Farm,Bungala One Operations Pty Ltd as trustee for the Bungala One Operations Trust,Solar - Solar,54,2.5,135,0.0, In Service , Solar ,Expected Closure Year,2044.0
+263,SA,Existing Plant,Bungala Two Solar Farm,Bungala Two Operations Pty Ltd as trustee for the Bungala Two Operations Trust,Solar - Solar,54,2.5,135,, In Service , Solar ,Expected Closure Year,2044.0
+264,QLD,Project,Burdekin BESS,BURDEKIN SOLAR FARM PTY LTD ATF BURDEKIN GENESIS PROJECT TRUST,Other - Other,139,3.6,500.4,2000.0, Publicly Announced , Battery Storage ,Expected Closure Year,2056.0
+265,QLD,Project,Burdekin Solar Farm - KCI,BURDEKIN SOLAR FARM PTY LTD ATF BURDEKIN GENESIS PROJECT TRUST,Solar - Solar,2,3.6,7.2,, Publicly Announced , Solar ,Expected Closure Year,2057.0
+266,NSW,Project,Capital Battery,Capital Battery Pty Ltd,Other - Other,33,3.04,100.32,200.0, Committed , Battery Storage ,Expected Closure Year,2048.0
+267,QLD,Project,Captains Mountain Wind Farm,vestas_NR,Wind - Wind,45,7.2,324,, Publicly Announced , Wind ,Expected Closure Year,2057.0
+268,NSW,Project,Carag Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,4,4,16,, Publicly Announced , Solar ,Expected Closure Year,2053.0
+269,VIC,Project,Carisbrook Solar Farm,Origin Energy,Solar - Solar,1,74,74,, Publicly Announced , Solar ,Expected Closure Year,2049.0
+270,TAS,Existing Plant,Cattle Hill Wind Farm,Wild Cattle Hill Pty Ltd,Wind - Wind,45,3.2,144,, In Service , Wind ,Expected Closure Year,2044.0
+271,VIC,Existing Plant,Chepstowe Wind Farm - VIC,Chepstowe Wind Farm Pty Ltd,Wind - Wind,3,2.05,6.15,, In Service , Wind ,Expected Closure Year,2039.0
+272,VIC,Existing Plant,Cherry Tree Wind Farm,Cherry Tree Wind Farm Pty Limited A.T.F. Cherry Tree Project Trust,Wind - Wind,16,3.6,57.6,, In Service , Wind ,Expected Closure Year,2050.0
+273,QLD,Existing Plant,Childers Solar Farm,Childers Solar Pty Ltd as trustee for the Childers Solar Trust,Solar - Solar,37,1.74,64.38,, In Service , Solar ,Expected Closure Year,2049.0
+274,QLD,Existing Plant,Chinchilla BESS,CSENERGY,Other - Other,1,100,100,200.0, In Service , Battery Storage ,Expected Closure Year,2038.0
+275,SA,Existing Plant,Christies Beach Wastewater Treatment Plant,South Australian Water Corporation,Other - Other,1,2.09,2.09,4.32, In Service , Battery Storage ,Expected Closure Year,2041.0
+276,SA,Existing Plant,Christies Beach Wastewater Treatment Plant,South Australian Water Corporation,Solar - Solar,2,2.4,4.8,, In Service , Solar ,Expected Closure Year,2041.0
+277,QLD,Project,Clarke Creek Wind Farm,Squadron Energy Services Pty Ltd,Wind - Wind,77,4.5,346.5,, Committed , Wind ,Expected Closure Year,2049.0
+278,QLD,Project,Clarke Creek Wind Farm,Squadron Energy Services Pty Ltd,Wind - Wind,23,4.5,103.5,, Committed , Wind ,Expected Closure Year,2049.0
+279,QLD,Existing Plant,Clermont Solar Farm,Clermont Asset Co Pty Ltd as Trustee for Clerrmont Solar Unit Trust,Solar - Solar,37,2.5,92.5,, In Service , Solar ,Expected Closure Year,2049.0
+280,NSW,Existing Plant,Collector,Ratch Australia,Wind - Wind,54,4.2,226.8,, In Service , Wind ,Expected Closure Year,2046.0
+281,QLD,Existing Plant,Collinsville PV,Ratch Australia,Solar - Solar,17,2.5,42.5,, In Service , Solar ,Expected Closure Year,2044.0
+282,QLD,Existing Plant,Columboola Solar Farm,Luminous Energy,Solar - Solar,79,2.75,217.25,0.0, In Service , Solar ,Expected Closure Year,2046.0
+283,QLD,Existing Plant,Coopers Gap Wind Farm,PARF Company 6 Pty Limited,Wind - Wind,91,3.63,330.33,, In Service , Wind ,Expected Closure Year,2044.0
+284,QLD,Existing Plant,Coopers Gap Wind Farm,PARF Company 6 Pty Limited,Wind - Wind,32,3.83,122.56,, In Service , Wind ,Expected Closure Year,2044.0
+285,NSW,Existing Plant,Corowa Solar Farm,Corowa Operationsco Pty Ltd as trustee for Corowa Operations Trust,Solar - Solar,22,1.64,36.01,, In Service , Solar ,Expected Closure Year,2051.0
+286,NSW,Existing Plant,Crookwell 2 Wind Farm,Crookwell Development Pty Ltd,Wind - Wind,28,3.43,96.04,, In Service , Wind ,Expected Closure Year,2043.0
+287,NSW,Project,Crookwell 3 Wind Farm,Crookwell 3 Development Pty Ltd,Wind - Wind,16,3.6,57.6,, Committed , Wind ,Expected Closure Year,2054.0
+288,NSW,Existing Plant,Crudine Ridge Wind Farm,CRWF Nominees Pty Ltd as trustee of the CRWF Trust,Wind - Wind,37,3.83,141.71,, In Service , Wind ,Expected Closure Year,2041.0
+289,NSW,Project,Culcairn Solar Farm,Culcarin Solar Farm Trust,Solar - Solar,111,3.15, 0.22 - 349.98 ,, Committed , Solar ,Expected Closure Year,2050.0
+290,SA,Project,Cultana Solar Farm,Cultana Solar Project Company Pty Ltd as trustee for the Cultana Solar Farm Trust,Solar - Solar,104,3.44,357.45,, Anticipated , Solar ,Expected Closure Year,2055.0
+291,NSW,Existing Plant,Darlington Point Energy Storage System,DPESS Pty Ltd,Other - Other,1,25,25,50.0, In Service , Battery Storage ,Expected Closure Year,2051.0
+292,NSW,Existing Plant,Darlington Point Solar Farm,Darlington Point Solar Farm Pty Ltd,Solar - Solar,108,2.55,274.97,, In Service , Solar ,Expected Closure Year,2055.0
+293,VIC,Project,Derby Solar Farm,DERBY SOLAR PROJECT PTY LTD ,Solar - Solar,30,3.17,95.1,, Anticipated , Solar ,Expected Closure Year,2053.0
+294,VIC,Existing Plant,Diapur Wind Farm,Diapur Wind Farm Pty Ltd,Wind - Wind,2,4,8,, In Service , Wind ,Expected Closure Year,2046.0
+295,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Solar - Solar,1,400,400,, Publicly Announced , Solar ,Expected Closure Year,2058.0
+296,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Solar - Solar,1,400, 4.00 - 400.00 ,, Publicly Announced , Solar ,Expected Closure Year,2057.0
+297,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Wind - Wind,114,6.6, 513.00 - 752.40 ,, Publicly Announced , Wind ,Expected Closure Year,2059.0
+298,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Wind - Wind,86,6.6, 344.00 - 567.60 ,, Publicly Announced , Wind ,Expected Closure Year,2058.0
+299,NSW,Project,Dinawan Energy Hub,Spark Renewables Pty Ltd,Other - Other,1,300,300,600.0, Publicly Announced , Battery Storage ,Expected Closure Year,2058.0
+300,QLD,Existing Plant,Dulacca Wind Farm,Dulacca Energy Project Co Pty Ltd,Wind - Wind,43,4.02,172.99,, In Service , Wind ,Expected Closure Year,2053.0
+301,VIC,Existing Plant,Dundonnell Wind Farm,Tilt Renewables,Wind - Wind,40,4.2,168,, In Service , Wind ,Expected Closure Year,2045.0
+302,VIC,Existing Plant,Dundonnell Wind Farm,Tilt Renewables,Wind - Wind,29,4.2,121.8,, In Service , Wind ,Expected Closure Year,2045.0
+303,VIC,Existing Plant,Dundonnell Wind Farm,Tilt Renewables,Wind - Wind,11,4.2,46.2,, In Service , Wind ,Expected Closure Year,2045.0
+304,QLD,Existing Plant,Edenvale Solar Park,Edenvale Solar Park Pty Ltd,Solar - Solar,1,180,180,, In Service , Solar ,Expected Closure Year,2053.0
+305,VIC,Existing Plant,Elaine Wind Farm,Northleaf /InfraRed/Macquarie Capital,Wind - Wind,22,3.8,83.6,, In Service , Wind ,Expected Closure Year,2049.0
+306,QLD,Existing Plant,Emerald Solar Park,Lighthouse Infrastructure Management Limited,Solar - Solar,32,2.25,72,, In Service , Solar ,Expected Closure Year,2048.0
+307,NSW,Project,Eraring Big Battery,Origin Energy Electricity Limited,Other - Other,1,460,460,920.0, Committed* , Battery Storage ,Expected Closure Year,2045.0
+308,NSW,Existing Plant,Finley Solar Farm,Finley Solar Farm Pty Ltd as The trustee for Finley Solar Trust,Solar - Solar,99,1.64,162.36,, In Service , Solar ,Expected Closure Year,2049.0
+309,NSW,Existing Plant,Flyers Creek Wind Farm,Flyers Creek Wind Farm Pty Ltd,Wind - Wind,38,3.83,145.54,, In Service , Wind ,Expected Closure Year,2063.0
+310,VIC,Project,Frasers Solar Farm,Frasers Lane Development Pty Ltd,Solar - Solar,1,77,77,, Anticipated , Solar ,Expected Closure Year,2054.0
+311,VIC,Project,Girgarre Solar Farm,Giragarre Solar Farm Pty Ltd as trustee for Giragarre Solar Farm Trust,Solar - Solar,57,1.64,93.48,, Committed , Solar ,Expected Closure Year,2054.0
+312,VIC,Existing Plant,Glenrowan Solar Farm,Glenrowan Solar Farm Pty Ltd as trustee for Glenrowan Solar Farm Trust,Solar - Solar,30,2.75,82.5,, In Service , Solar ,Expected Closure Year,2053.0
+313,VIC,Existing Plant,Glenrowan West Solar Farm,Glenrowan Sun Farm Pty Ltd,Solar - Solar,48,2.75,132,, In Service , Solar ,Expected Closure Year,2051.0
+314,VIC,Project,Gnarwarre BESS Facility,FRV SA Pty Ltd,Other - Other,100,2.9,290,550.0, Anticipated , Battery Storage ,Expected Closure Year,2054.0
+315,VIC,Project,Golden Plains Wind Farm East,Golden Plains WF1 Pty Ltd as trustee for the Golden Plains WF1 Unit Trust,Wind - Wind,122,6.2,756.4,, Committed , Wind ,Expected Closure Year,2055.0
+316,NSW,Existing Plant,Goonumbla Solar Farm,Goonumbla Asset Co Pty Ltd as trustee for the Goonumbla Asset Trust,Solar - Solar,31,2.25,69.75,, In Service , Solar ,Expected Closure Year,2050.0
+317,SA,Project,Goyder South Wind Farm 1A,Goyder Wind Farm 1 Trust,Wind - Wind,38,5.5,209,, Committed , Wind ,Expected Closure Year,2048.0
+318,SA,Project,Goyder South Wind Farm 1B,Goyder Wind Farm 1B Trust,Wind - Wind,37,5.5,203.5,, Committed , Wind ,Expected Closure Year,2049.0
+319,TAS,Existing Plant,Granville Harbour Wind Farm,Granville Harbour Operations Pty Ltd as trustee for Granville Harbour Operations Trust,Wind - Wind,31,3.6,111.6,, In Service , Wind ,Expected Closure Year,2055.0
+320,TAS,Project,Great Lakes Battery,Neoen Australia Pty Ltd,Other - Other,1,100,100,100.0, Publicly Announced , Battery Storage ,Expected Closure Year,2050.0
+321,QLD,Project,Greenbank BESS,CSENERGY,Other - Other,1,200,200,400.0, Committed , Battery Storage ,Expected Closure Year,2044.0
+322,NSW,Existing Plant,Gullen Range Wind Farm 2,BEIJING JINGNENG CLEAN ENERGY (AUSTRALIA) HOLDING PTY LTD,Wind - Wind,31,3.57,110.67,, In Service , Wind ,Expected Closure Year,2120.0
+323,NSW,Existing Plant,Gunnedah Solar Farm,Gunnedah SF Pty Ltd atf Gunnedah Asset Trust,Solar - Solar,1,110,110,, In Service , Solar ,Expected Closure Year,2056.0
+324,SA,Existing Plant,Happy Valley Reservoir,South Australian Water Corporation,Solar - Solar,3,2.78,8.34,, In Service , Solar ,Expected Closure Year,2041.0
+325,SA,Existing Plant,Happy Valley Reservoir,South Australian Water Corporation,Other - Other,1,4.41,4.41,8.82, In Service , Battery Storage ,Expected Closure Year,2041.0
+326,QLD,Existing Plant,Haughton Solar Farm Stage 1,Pacific Hydro Haughton Solar Farm Pty Ltd,Solar - Solar,81,1.64,132.6,, In Service , Solar ,Expected Closure Year,2050.0
+327,VIC,Existing Plant,Hazelwood Battery Energy Storage System (HBESS),Hazelwood BESS Project Co Pty Ltd as trustee for the HBESS Asset Trust,Other - Other,1,200.07,200.07,162.0, In Service , Battery Storage ,Expected Closure Year,2043.0
+328,NSW,Existing Plant,Hillston Sun Farm,Hillston Sun Farm Operations Pty Ltd ATF Hillston,Solar - Solar,40,2.75,110,, In Service , Solar ,Expected Closure Year,2046.0
+329,SA,Existing Plant,Hornsdale Power Reserve Unit 1,Hornsdale Power Reserve Pty Ltd,Other - Other,1,50,50,61.3, In Service , Battery Storage ,Expected Closure Year,2057.0
+330,VIC,Project,Horsham Solar Farm,ESCO SOLAR FARM 7 PTY LTD,Solar - Solar,36,3.3,118.8,, Anticipated , Solar ,Expected Closure Year,2066.0
+331,QLD,Existing Plant,Hughenden Sun Farm,Hughenden Solar Pty Ltd as Trustee for Hughenden Solar Trust,Solar - Solar,18,1.17,20.97,, In Service , Solar ,Expected Closure Year,2048.0
+332,NSW,Project,Hunter Power Station,Snowy Hydro Limited,Fossil - Natural Gas Pipeline,1,375,375,, Committedï¿½  , OCGT ,Expected Closure Year,2064.0
+333,NSW,Project,Hunter Power Station,Snowy Hydro Limited,Fossil - Natural Gas Pipeline,1,375,375,, Committedï¿½  , OCGT ,Expected Closure Year,2064.0
+334,QLD,Project,Innes Park Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,6,4,24,, Publicly Announced , Solar ,Expected Closure Year,2054.0
+335,NSW,Existing Plant,Jemalong Solar,Genex Power,Solar - Solar,20,2.75,55,0.0, In Service , Solar ,Expected Closure Year,2050.0
+336,QLD,Existing Plant,Kaban Wind Farm,Kaban Wind Farm Trust,Wind - Wind,28,5.6,156.8,, In Service , Wind ,Expected Closure Year,2048.0
+337,NSW,Existing Plant,Kanowna Solar Farm,Kanowna Solar Pty Ltd,Solar - Solar,2,2.5,5,, In Service , Solar ,Expected Closure Year,2049.0
+338,VIC,Existing Plant,Karadoc Solar Farm,Iraak Sun Farm Pty Ltd,Solar - Solar,38,2.75,104.5,, In Service , Solar ,Expected Closure Year,2048.0
+339,QLD,Existing Plant,Kennedy Energy Park - Phase 1 - Solar,Windlab / Eurus,Solar - Solar,6,2.5,15,0.0, In Commissioning , Solar ,Expected Closure Year,2046.0
+340,QLD,Existing Plant,Kennedy Energy Park - Phase 1 - Storage,Windlab/Eurus,Other - Other,4,0.5,2,4.0, In Commissioning , Battery Storage ,Expected Closure Year,2046.0
+341,QLD,Existing Plant,Kennedy Energy Park - Phase 1 - Wind,Windlab / Eurus,Wind - Wind,12,3.6,43.2,, In Commissioning , Wind ,Expected Closure Year,2046.0
+342,VIC,Project,Kerang BESS,Kerang Bess Pty Ltd,Other - Other,44,2.4,105.6,200.0, Publicly Announced , Battery Storage ,Expected Closure Year,2054.0
+343,VIC,Existing Plant,Kiamal Solar Farm - Stage 1,KSF Project Nominees Pty Ltd ATF KSF Project Trust,Solar - Solar,150,1.33,199.95,0.0, In Service , Solar ,Expected Closure Year,2049.0
+344,QLD,Project,Kidston Pumped Storage Hydro Project 250MW,Genex Power Ltd,Hydro - Water,2,125,250,2000.0, Committed , Water ,Expected Closure Year,2105.0
+345,QLD,Existing Plant,Kidston Solar Project Phase One 50MW,Genex Power Limited,Solar - Solar,20,2.5,50,0.0, In Service , Solar ,Expected Closure Year,2037.0
+346,VIC,Project,Koorangie Energy Storage System ,Edify Energy,Other - Other,1,185,185,370.0, Committed , Battery Storage ,Expected Closure Year,2055.0
+347,QLD,Existing Plant,Lilyvale Solar Farm,Lilyvale Asset Co Pty Ltd ATF Lilyvale Asset Trust,Solar - Solar,74,1.6,118.4,, In Service , Solar ,Expected Closure Year,2048.0
+348,NSW,Existing Plant,Limondale Solar Farm 1,Limondale Sun Farm Pty Ltd,Solar - Solar,100,2.3,230,, In Service , Solar ,Expected Closure Year,2050.0
+349,NSW,Existing Plant,Limondale Solar Farm 2,Limondale Sun Farm Pty Ltd,Solar - Solar,14,2.07,28.98,0.0, In Service , Solar ,Expected Closure Year,2050.0
+350,SA,Project,Lincoln Gap Wind Farm - BESS,Lincoln Gap Wind Farm Pty Ltd,Other - Other,1,10,10,10.0, Anticipated , Battery Storage ,Expected Closure Year,2045.0
+351,SA,Existing Plant,Lincoln Gap Wind Farm - stage 1,Lincoln Gap Wind Farm Pty Ltd,Wind - Wind,35,3.6,126,0.0, In Service , Wind ,Expected Closure Year,2045.0
+352,SA,Existing Plant,Lincoln Gap Wind Farm - Stage 2,Lincoln Gap Wind Farm Pty Ltd,Wind - Wind,24,3.6,86.4,, In Service , Wind ,Expected Closure Year,2045.0
+353,QLD,Project,MacIntyre Wind Farm,Macintyre Windfarm Pty Ltd and Arc Energy Macintyre Pty Ltd,Wind - Wind,162,5.7,923.4,, Committed* , Wind ,Expected Closure Year,2054.0
+354,NSW,Existing Plant,Manildra Solar Farm,Manildra Prop Pty Ltd as trustee for the Manildra Asset Trust,Solar - Solar,20,2.5,50,, In Service , Solar ,Expected Closure Year,2048.0
+355,SA,Existing Plant,Mannum Adelaide Pumping Station No 2 - MAPL2 (Palmer),South Australian Water Corporation,Solar - Solar,6,2.8,16.8,, In Service , Solar ,Expected Closure Year,2041.0
+356,SA,Existing Plant,Mannum Adelaide Pumping Station No 3 - MAPL3 (Tungkillo),South Australian Water Corporation,Solar - Solar,6,2.06,12.36,, In Service , Solar ,Expected Closure Year,2041.0
+357,SA,Existing Plant,Mannum Solar Farm,Mannum Solar Farm Pty Ltd,Solar - Solar,1,4.95,4.95,, In Service , Solar ,Expected Closure Year,2054.0
+358,SA,Existing Plant,Mannum Solar Farm 2,Mannum Stage 2 SubCo Pty Ltd as trustee for the Mannum Stage 2 Unit Trust,Solar - Solar,11,2.73,29.99,, In Commissioning , Solar ,Expected Closure Year,2058.0
+359,QLD,Existing Plant,Maryrorough Solar Farm,Maryrorough Solar Pty Ltd,Solar - Solar,1,34.5,34.5,, In Service , Solar ,Expected Closure Year,2048.0
+360,NSW,Project,Maryvale Solar and Energy Storage System,Maryvale Solar Farm Pty Ltd ,Other - Other,61,2.82,172.02,5.73, Anticipated , Battery Storage ,Expected Closure Year,2062.0
+361,NSW,Project,Maryvale Solar and Energy Storage System,Maryvale Solar Farm Pty Ltd ,Solar - Solar,61,2.82,172.02,, Anticipated , Solar ,Expected Closure Year,2062.0
+362,VIC,Project,Melbourne Renewable Energy Hub - Side A,MREH Pty Ltd as trustee for MREH Asset Trust,Other - Other,1,600,600,1600.0, Committed , Battery Storage ,Expected Closure Year,2050.0
+363,NSW,Existing Plant,Metz Solar Farm,Metz ProjectCo Pty Ltd as trustee for Metz ProjectCo Trust ,Solar - Solar,54,2.5,135,, In Service , Solar ,Expected Closure Year,2052.0
+364,QLD,Existing Plant,Middlemount Solar Farm,Capricorn SF No1 Pty Ltd,Solar - Solar,1,26,26,, In Service , Solar ,Expected Closure Year,2050.0
+365,NSW,Existing Plant,Molong Solar Farm,Molong Operations co Pty Ltd ATF Molong Operations Trust,Solar - Solar,22,1.64,36.08,, In Service , Solar ,Expected Closure Year,2045.0
+366,VIC,Existing Plant,Moorabool Wind Farm,Moorabool Wind Farm Interface Company Pty Ltd,Wind - Wind,104,3,312,, In Service , Wind ,Expected Closure Year,2044.0
+367,SA,Existing Plant,Morgan To Whyalla Pipeline No 1 PS And Water Filtration Plant,South Australian Water Corporation,Solar - Solar,2,3.06,6.12,, In Service , Solar ,Expected Closure Year,2031.0
+368,SA,Existing Plant,Morgan To Whyalla Pipeline No 2 PS,South Australian Water Corporation,Solar - Solar,2,2.94,5.88,, In Service , Solar ,Expected Closure Year,2041.0
+369,SA,Existing Plant,Morgan To Whyalla Pipeline No 3 PS,South Australian Water Corporation,Solar - Solar,3,2.46,7.38,, In Service , Solar ,Expected Closure Year,2045.0
+370,SA,Existing Plant,Morgan To Whyalla Pipeline No 4 PS,South Australian Water Corporation,Solar - Solar,2,2.94,5.88,, In Service , Solar ,Expected Closure Year,2041.0
+371,VIC,Project,Mornington BESS,Mornington BESS Project Pty Ltd as Trustee of Mornington BESS Project Trust,Other - Other,1,240,240,480.0, Publicly Announced , Battery Storage ,Expected Closure Year,2045.0
+372,VIC,Existing Plant,Mortlake South Wind Farm,Mortlake South Wind Farm Pty Ltd,Wind - Wind,35,4.5,157.5,, In Service , Wind ,Expected Closure Year,2047.0
+373,QLD,Existing Plant,Mount Emerald,Ratch Australia,Wind - Wind,53,3.41,180.52,, In Service , Wind ,Expected Closure Year,2043.0
+374,QLD,Project,Mount Hopeful Wind Farm,Neoen Australia Pty Ltd,Wind - Wind,1,370,370,, Publicly Announced , Wind ,Expected Closure Year,2050.0
+375,QLD,Existing Plant,Moura Solar Farm,Moura Solar Farm SPV Pty Ltd as the Trustee for Moura Solar Farm Unit Trust,Solar - Solar,36,2.75,99,, In Service , Solar ,Expected Closure Year,2057.0
+376,VIC,Existing Plant,Mt Gellibrand Wind Farm,ACCIONA Energy,Wind - Wind,44,3.15,138.6,, In Service , Wind ,Expected Closure Year,2043.0
+377,NSW,Existing Plant,Mt Piper,EnergyAustralia NSW Pty Ltd,Fossil - Black Coal,1,660,660,, In Service , Coal ,Expected Closure Year,2040.0
+378,QLD,Project,Munna Creek Solar Farm,Munna Creek Solar Farm Investments Pty Ltd as trustee for the Munna Creek Solar Farm Trust,Solar - Solar,56,2.75,154,, Anticipated , Solar ,Expected Closure Year,2053.0
+379,VIC,Existing Plant,Murra Warra Wind Farm - stage 1,Murra Warra Project Co Pty Ltd,Wind - Wind,61,3.7,225.7,, In Service , Wind ,Expected Closure Year,2049.0
+380,VIC,Existing Plant,Murra Warra Wind Farm - stage 2,Murra Warra II Project Co Pty Ltd as Trustee for the Murra Warra II Project Trust,Wind - Wind,38,5.5,209,, In Service , Wind ,Expected Closure Year,2052.0
+381,SA,Existing Plant,Murray Bridge - Onkaparinga Pipeline Pump 2,South Australian Water Corporation,Solar - Solar,6,2.29,13.74,, In Service , Solar ,Expected Closure Year,2041.0
+382,NSW,Project,Narrabri Hybrid Project, Narrabri Genesis Hold Pty Ltd ATF Narrabri Genesis Hold Trust,Other - Other,1,3.6,3.6,400.0, Publicly Announced , Battery Storage ,Expected Closure Year,2062.0
+383,QLD,Project,Nebo BESS,Nebo BESS Pty Ltd,Other - Other,1,900,900,3600.0, Publicly Announced , Battery Storage ,Expected Closure Year,2063.0
+384,NSW,Existing Plant,Nevertire Solar Farm,Nevertire Solar Pty Ltd as Trustee for the Nevertire Solar Trust,Solar - Solar,48,2.18,104.64,, In Service , Solar ,Expected Closure Year,2049.0
+385,NSW,Existing Plant,New England Solar Farm,ACEN AUSTRALIA,Solar - Solar,1,200,200,, In Service , Solar ,Expected Closure Year,2052.0
+386,NSW,Existing Plant,New England Solar Farm,ACEN AUSTRALIA,Solar - Solar,1,200,200,, In Service , Solar ,Expected Closure Year,2052.0
+387,VIC,Existing Plant,Numurkah Solar Farm,Numurkah Solar Farm Pty Ltd,Solar - Solar,37,1.81,66.79,, In Service , Solar ,Expected Closure Year,2044.0
+388,VIC,Existing Plant,Numurkah Solar Farm,Numurkah Solar Farm Pty Ltd,Solar - Solar,19,1.81,34.3,, In Service , Solar ,Expected Closure Year,2044.0
+389,QLD,Existing Plant,Oakey 2 Solar Farm,RE Oakey Pty Ltd,Solar - Solar,26,2.14,55.64,, In Service , Solar ,Expected Closure Year,2049.0
+390,QLD,Existing Plant,Oakey Solar Farm,Oakey1 Asset Co Pty Ltd,Solar - Solar,1,25,25,, In Service , Solar ,Expected Closure Year,2043.0
+391,VIC,Existing Plant,Philip Island BESS,Mondo Power,Other - Other,1,5,5,10.0, In Service , Battery Storage ,Expected Closure Year,2038.0
+392,SA,Existing Plant,Port Augusta Renewable Energy Park - Solar,PAREP 1 Pty Ltd,Solar - Solar,36,2.2,79.2,, In Service , Solar ,Expected Closure Year,2047.0
+393,NSW,Existing Plant,Queanbeyan BESS,Berrybank 2 Asset Pty Ltd as Trustee for Berrybank 2 Asset Trust,Other - Other,1,10,10,20.0, In Service , Battery Storage ,Expected Closure Year,2033.0
+394,NSW,Project,Quorn Park Hybrid,Quorn Park Solar Farm Pty Ltd as the trustee for Quorn Park Solar Farm Trust,Solar - Solar,22,4.4, 87.12 - 96.80 ,, Committed , Solar ,Expected Closure Year,2055.0
+395,NSW,Project,Quorn Park Hybrid,Quorn Park Solar Farm Pty Ltd as the trustee for Quorn Park Solar Farm Trust,Other - Other,8,3.45, 23.44 - 27.60 ,40.0, Committed , Battery Storage ,Expected Closure Year,2045.0
+396,VIC,Project,Red Cliffs Solar & BESS - KCI,Red Cliffs Power Pty td,Solar - Solar,1,60,60,, Publicly Announced , Solar ,Expected Closure Year,2051.0
+397,NSW,Existing Plant,Riverina Energy Storage System 1,Shell New Energies Australia Pty Ltd,Other - Other,1,60,60,120.0, In Service , Battery Storage ,Expected Closure Year,2051.0
+398,NSW,Existing Plant,Riverina Energy Storage System 2,RESS 2 Pty Ltd,Other - Other,1,65,65,130.0, In Service , Battery Storage ,Expected Closure Year,2051.0
+399,NSW,Project,Riverina Solar Farm,Riverina Solar Pty Ltd,Solar - Solar,360,0.09,32.4,, Committed , Solar ,Expected Closure Year,2047.0
+400,SA,Existing Plant,RMGE94,The Trustee for Dale Calderbank Investment Trust & The Trustee for Mark Yates Family Trust,Solar - Solar,1,0.05,0.05,, In Service , Solar ,Expected Closure Year,2050.0
+401,QLD,Existing Plant,Rugby Run Solar Farm,Adani Rugby Run Pty Ltd,Solar - Solar,1,65,65,, In Service , Solar ,Expected Closure Year,2049.0
+402,NSW,Existing Plant,Rye Park Wind Farm,Tilt Renewables Australia Pty Ltd,Wind - Wind,66,6,396,, In Commissioning , Wind ,Expected Closure Year,2048.0
+403,NSW,Project,Sapphire Wind Farm,SWF1 Operations Holdings Pty Ltd as trustee for SWF1 Hold Trust,Other - Other,1,30,30,38.0, Anticipated , Battery Storage ,Expected Closure Year,2033.0
+404,NSW,Project,Sebastopol Solar Farm,Sebastopol Asset Co Pty Ltd ATF Sebastopol Asset Trust,Solar - Solar,40,2.25,90,, Committed , Solar ,Expected Closure Year,2052.0
+405,NSW,Project,Silver City Energy Storage,A-CAES NSW PTY LTD,Other - Other,2,100,200,1600.0, Anticipated , Battery Storage ,Expected Closure Year,2057.0
+406,NSW,Existing Plant,Silverton Wind Farm,PARF Company 8 Pty Ltd as trustee for the Silverton Project Trust,Wind - Wind,58,3.43,198.94,, In Service , Wind ,Expected Closure Year,2043.0
+407,SA,Existing Plant,Snapper Point Power Station,Port Adelaide Energy Pty Ltd,Fossil - Diesel,5,30.8,154,, In Service , OCGT ,Expected Closure Year,2046.0
+408,NSW,Project,Snowy 2.0.,Snowy Hydro Ltd,Hydro - Water,4,367,"1,468.00",233320.0, Committedï¿½  , Water ,Expected Closure Year,2129.0
+409,NSW,Project,Snowy 2.0.,Snowy Hydro Ltd,Hydro - Water,2,366,732,116660.0, Committedï¿½  , Water ,Expected Closure Year,2129.0
+410,VIC,Project,Stanhope BESS Project 01,Globird Energy Pty Ltd,Solar - Solar,1,20,20,20.0, Publicly Announced , Battery Storage ,Expected Closure Year,2046.0
+411,VIC,Project,Stanhope BESS Project 02,globirdenergy_NR,Solar - Solar,1,5,5,, Publicly Announced , Solar ,Expected Closure Year,2046.0
+412,QLD,Project,Stanwell BESS,Stanwell Corporation Limited,Other - Other,1,300,300,1200.0, Anticipated , Battery Storage ,Expected Closure Year,2047.0
+413,VIC,Existing Plant,Stockyard Hill Wind Farm,Stockyard Hill Wind Farm Pty Ltd,Wind - Wind,128,3.57,456.96,, In Service , Wind ,Expected Closure Year,2045.0
+414,VIC,Existing Plant,Stockyard Hill Wind Farm,Stockyard Hill Wind Farm Pty Ltd,Wind - Wind,19,3.4,64.6,, In Service , Wind ,Expected Closure Year,2045.0
+415,VIC,Existing Plant,Stockyard Hill Wind Farm,Stockyard Hill Wind Farm Pty Ltd,Wind - Wind,2,3,6,, In Service , Wind ,Expected Closure Year,2045.0
+416,NSW,Project,Stubbo Solar Farm,ACEN AUSTRALIA,Solar - Solar,2,200,400,, Committed , Solar ,Expected Closure Year,2073.0
+417,NSW,Existing Plant,Sunraysia Solar Farm,Sunraysia Solar Project Pty Ltd,Solar - Solar,104,2.2,228.8,, In Service , Solar ,Expected Closure Year,2049.0
+418,NSW,Existing Plant,Suntop Solar Farm,Suntop SF Pty Ltd As Trustee For The Suntop Asset,Solar - Solar,1,150,150,, In Service , Solar ,Expected Closure Year,2056.0
+419,QLD,Existing Plant,Susan River Solar Farm,Susan River Solar Pty Ltd as trustee for the Susan River Solar Trust,Solar - Solar,49,1.74,85.26,, In Service , Solar ,Expected Closure Year,2049.0
+420,QLD,Project,Swanbank BESS,CleanCo QLD Limited,Other - Other,1,250,250,500.0, Anticipated , Battery Storage ,Expected Closure Year,2045.0
+421,SA,Existing Plant,Tailem Bend - Solar,Vena Energy,Solar - Solar,1,108,108,, In Service , Solar ,Expected Closure Year,2049.0
+422,SA,Existing Plant,Tailem Bend Battery Project,Vena Energy,Other - Other,1,41.5,41.5,84.0, In Service , Battery Storage ,Expected Closure Year,2048.0
+423,SA,Existing Plant,Tailem Bend Stage 2 Solar Project,Vena Energy,Solar - Solar,1,105,105,, In Commissioning , Solar ,Expected Closure Year,2053.0
+424,NSW,Existing Plant,Tallawarra B,EnergyAustralia Tallawarra Pty Ltd ,Fossil - Natural Gas Pipeline,1,320,320,, In Service , OCGT ,Expected Closure Year,2053.0
+425,NSW,Project,Tamworth Solar Farm,Tamworth Solar Farm Pty Ltd,Solar - Solar,1,65,65,, Anticipated , Solar ,Expected Closure Year,2053.0
+426,QLD,Project,Tarong BESS - Stanwell,Stanwell Corporation Limited,Other - Other,1,300,300,600.0, Committed* , Battery Storage ,Expected Closure Year,2045.0
+427,SA,Project,Templers BESS,ZEN Energy Future Pty Ltd,Other - Other,1,111,111,291.0, Committed , Battery Storage ,Expected Closure Year,2049.0
+428,NSW,Project,Tenterfield Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,7,4.2,29.4,, Publicly Announced , Solar ,Expected Closure Year,2055.0
+429,NSW,Project,Tilbuster Solar Farm,Enerparc Australia Pty Ltd,Solar - Solar,152,1.64,248.82,, Committed , Solar ,Expected Closure Year,2055.0
+430,VIC,Existing Plant,Timboon West Wind Farm,Timboon West Wind Farm Pty Ltd,Wind - Wind,2,3.6,7.2,, In Service , Wind ,Expected Closure Year,2048.0
+431,SA,Existing Plant,Torrens Island BESS,TIPSCO,Other - Other,109,2.3,250.7,250.0, In Service , Battery Storage ,Expected Closure Year,2043.0
+432,QLD,Project,Ulinda Park BESS,Ulinda Park ProjectCo Pty Ltd in its capacity as trustee for the Ulinda Park Project Trust,Other - Other,52,2.98,154.96,298.0, Anticipated , Battery Storage ,Expected Closure Year,2064.0
+433,VIC,Existing Plant,Victorian Big Battery,Victorian Big Battery Pty Ltd,Other - Other,1,300,300,450.0, In Service , Battery Storage ,Expected Closure Year,2041.0
+434,NSW,Existing Plant,Wagga North Solar Farm,Wagga Wagga Operationsco Pty Ltd as trustree for Wagga Wagga Operations Trust,Solar - Solar,12,1.64,19.64,, In Service , Solar ,Expected Closure Year,2050.0
+435,NSW,Project,Walla Walla Solar Farm,FRV Australia (Walla Walla Asset Co Pty Ltd (ACN 634 728 868) as trustee for the Walla Walla Asset Trust),Solar - Solar,48,3.17,151.97,, Committed , Solar ,Expected Closure Year,2054.0
+436,NSW,Project,Walla Walla Solar Farm,FRV Australia (Walla Walla Asset Co Pty Ltd (ACN 634 728 868) as trustee for the Walla Walla Asset Trust),Solar - Solar,48,3.17,151.97,, Committed , Solar ,Expected Closure Year,2054.0
+437,NSW,Existing Plant,Wallgrove Grid Battery project,TransGrid,Other - Other,1,50,50,75.0, In Service , Battery Storage ,Expected Closure Year,2036.0
+438,QLD,Existing Plant,Wandoan South BESS,Vena Evergy,Other - Other,1,100,100,150.0, In Service , Battery Storage ,Expected Closure Year,2051.0
+439,QLD,Existing Plant,Wandoan South Solar Stage 1,Vena Evergy,Solar - Solar,1,160,160,, In Service , Solar ,Expected Closure Year,2053.0
+440,NSW,Project,Waratah Super Battery,Munmorah Battery Projectco Pty Ltd,Other - Other,288,2.95,850.18,1680.0, Committed , Battery Storage ,Expected Closure Year,2065.0
+441,QLD,Existing Plant,Warwick Solar Farm,The University of Queensland,Solar - Solar,8,4.01,32.1,, In Service , Solar ,Expected Closure Year,2046.0
+442,QLD,Existing Plant,Warwick Solar Farm,The University of Queensland,Solar - Solar,8,4.01,32.1,, In Service , Solar ,Expected Closure Year,2045.0
+443,NSW,Existing Plant,Wellington Solar Farm,Lightsource Australia SPV 4 Pty Ltd,Solar - Solar,132,1.64,216.08,, In Service , Solar ,Expected Closure Year,2051.0
+444,VIC,Existing Plant,Wemen Solar Farm,Wemen Asset Co Pty Ltd as Trustee to Wemen Solar Unit Trust,Solar - Solar,39,2.5,97.5,, In Service , Solar ,Expected Closure Year,2049.0
+445,NSW,Existing Plant,West Wyalong Solar Farm,West Wyalong Fund Pty Ltd,Solar - Solar,29,3.63,105.27,, In Service , Solar ,Expected Closure Year,2058.0
+446,QLD,Project,Western Downs Battery,Western Downs BESS Trust,Other - Other,140,1.82,254.94,500.0, Committed , Battery Storage ,Expected Closure Year,2048.0
+447,QLD,Existing Plant,Western Downs Green Power Hub P/L,Western Downs Green Power Hub Pty Ltd,Solar - Solar,167,2.4,399.97,, In Service , Solar ,Expected Closure Year,2046.0
+448,SA, Existing Plant ,Willogoleche Wind Farm, Willogoleche Power Pty Ltd , Wind - Wind ,24,3.83,91.92,, In Service , Wind ,Expected Closure Year,2043.0
+449,SA, Existing Plant ,Willogoleche Wind Farm, Willogoleche Power Pty Ltd , Wind - Wind ,8,3.43,27.44,, In Service , Wind ,Expected Closure Year,2043.0
+450,NSW, Project ,Winterbourne Wind Farm, WinterbourneWind Pty Ltd , Wind - Wind ,118,6.2,731.6,, Publicly Announced , Wind ,Expected Closure Year,2060.0
+451,NSW, Project ,Wollar Solar Farm, Wollar Solar Development Pty Ltd , Solar - Solar ,1,280,280,, Committed , Solar ,Expected Closure Year,2054.0
+452,QLD,Existing Plant,Woolooga Solar Farm,Woolooga Fund Pty Ltd,Solar - Solar,89,2.5,222.5,, In Service , Solar ,Expected Closure Year,2058.0
+453,NSW, Existing Plant ,Wyalong Solar Farm, Wyalong Solar Farm Pty Ltd as the trustee for the Wyalong Solar Farm Unit Trust , Solar - Solar ,38,1.64,62.32,, In Service , Solar ,Expected Closure Year,2053.0
+454,QLD, Project ,Yabulu Solar Farm, Yabulu Solar Farm Pty Ltd , Solar - Solar ,22,4.2,92.4,, Publicly Announced , Solar ,Expected Closure Year,2049.0
+455,NSW, Project ,Yanco Solar Farm, Origin Energy , Solar - Solar ,1,60,60,, Publicly Announced , Solar ,Expected Closure Year,2045.0
+456,QLD, Existing Plant ,Yarranlea Solar Farm, Yarranlea Solar Pty Ltd , Solar - Solar ,44,2.34,102.96,, In Service , Solar ,Expected Closure Year,2044.0
+457,VIC, Existing Plant ,Yawong Wind Farm, Yawong Wind Farm Pty Ltd , Wind - Wind ,2,3.6,7.2,, In Service , Wind ,Expected Closure Year,2048.0
+458,VIC, Existing Plant ,Yendon Wind Farm, Northleaf /InfraRed/Macquarie Capital , Wind - Wind ,38,3.8,144.4,0.0, In Service , Wind ,Expected Closure Year,2049.0
+459,SA, Project ,Yorke Peninsula Wind Farm, Yorke Peninsula Wind Farm Project Pty Ltd , Wind - Wind ,104,7.2, 624.00 - 748.80 ,, Publicly Announced , Wind ,Expected Closure Year,2060.0

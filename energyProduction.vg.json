@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple pie chart with embedded data.",
+    "background":"transparent",
+    "width":150,
+    "height":200,
+    "title": "Power Production in Australia (2022-23)",
+    "config": {"style": {"cell":{"stroke":"transparent"}}},
+    "data": {
+        "url": "Files/energyProductions.csv"
+    },
+    "mark": "arc",
+    "encoding": {
+      "theta": {"field": "Units_(PJ)", "type": "quantitative"},
+      "color": {"field": "Source", "type": "nominal"},
+      "tooltip":[
+            {"field": "Source", "type": "nominal", "title": "Fuel Source"},
+            {"field": "Units_(PJ)", "type": "quantitative", "format": ",", "title": "Production (Petajoules)"}
+      ]
+    }
+  }

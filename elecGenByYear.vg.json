@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 460, "height": 200,
+    "config": {"style": {"cell":{"stroke":"transparent"}}},
+    "title": {"text":"Amount of electricity generated (PJ) by fuel per year","fontSize":14},
+    "background":"transparent",
+    "data": {"url": "Files/elecEnergyYearReshaped.csv"},
+    "transform": [
+      
+      {
+        "calculate": "if(datum.Fuel == 'Black_coal' || datum.Fuel == 'Brown_coal' || datum.Fuel == 'Natural_gas' || datum.Fuel == 'Oil_products' || datum.Fuel == 'Other',datum.value,0)",
+        "as": "nonRenewableValue"
+      },
+      {
+        "calculate": "if(datum.Fuel == 'Black_coal' || datum.Fuel == 'Brown_coal' || datum.Fuel == 'Natural_gas' || datum.Fuel == 'Oil_products' || datum.Fuel == 'Other',datum.Fuel,'Other')",
+        "as": "nonRenewableName"
+      },
+      {
+        "calculate": "if(datum.Fuel != 'Black_coal' && datum.Fuel != 'Brown_coal' && datum.Fuel != 'Natural_gas' && datum.Fuel != 'Oil_products' && datum.Fuel != 'Other',datum.value,0)",
+        "as": "RenewableValue"
+      },
+      {
+        "calculate": "if(datum.Fuel != 'Black_coal' && datum.Fuel != 'Brown_coal' && datum.Fuel != 'Natural_gas' && datum.Fuel != 'Oil_products' && datum.Fuel != 'Other','Renewable','Non Renewable')",
+        "as": "LegendsName"
+      }
+    ],
+      "mark": "area",
+      "encoding": {
+        "x": {
+          "field": "variable", "title":"Year"
+        },
+        "y": {
+          "field":"value", "aggregate": "sum", "title":"Amount (PJ)"
+        },
+        "color":{"field":"LegendsName","title":"Is Renewable?"}
+      }
+    
+  }

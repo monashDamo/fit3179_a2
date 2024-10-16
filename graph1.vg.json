@@ -1,0 +1,105 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 420,
+    "config": {"style": {"cell":{"stroke":"transparent"}}},
+    "height": 400,
+    "background":"transparent",
+    "title": {"text":"Power Stations in Australia and with capacity (MegaWatt) (2022)","fontSize":14},
+    "params": [
+        {
+            "name": "State_Selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Victoria",
+                    "Tasmania",
+                    "Queensland",
+                    "Western Australia",
+                    "New South Wales",
+                    "Australian Capital Territory",
+                    "Nothern Territory",
+                    "South Australia"
+                ],
+                "labels": [
+                    "Show All",
+                    "Victoria",
+                    "Tasmania",
+                    "Queensland",
+                    "Western Australia",
+                    "New South Wales",
+                    "Australian Capital Territory",
+                    "Nothern Territory",
+                    "South Australia"
+                ],
+                "name": "State: "
+            }
+        }
+    ],
+    "projection": {
+        "type": "mercator"
+    },
+    "layer": [
+        {
+            "data": {
+            "url":
+            "Files/output_topson_3.json",
+            "format": {"type": "topojson", "feature":"STE_2016_AUST"}
+            },
+            "mark": {"type": "geoshape", "fill": "darkgrey", "stroke":
+            "transparent"}
+        },
+        {
+            
+            "data": {
+                "url":
+                "Files/MajorPowerStations_v2.csv"
+            },
+            "transform": [
+                {
+                    "filter": "State_Selection == null || datum.STATE == State_Selection"
+                }
+            ],
+            "params": [
+                {
+                    "name": "fuel_highlight",
+                    "select": {"type": "point", "fields": ["PRIMARYFUELTYPE"]},
+                    "bind": "legend"
+                }
+            ],
+            
+            "mark": {"type": "circle", "tooltip": {"content": "data"}},
+            "encoding": {
+                "longitude": {"field": "LONGITUDE", "type":
+                "quantitative"},
+                "latitude": {"field": "LATITUDE", "type":
+                "quantitative"},
+                "tooltip": [
+                    {"field": "CLASS", "type": "nominal", "title": "Renewable?"},
+                    {"field": "NAME", "type": "nominal", "title": "Name"},
+                    {"field": "OWNER", "type": "nominal", "title": "Owner"},
+                    {"field": "STATE", "type": "nominal", "title": "State"},
+                    {"field": "GENERATIONMW", "type": "quantitative", "format": ",", "title": "Nameplate Capacity (MW)"}
+                ],
+                "size": {
+                    "field": "GENERATIONMW",
+                    "type": "quantitative",
+                    "title": "Nameplate Capacity (MW)",
+                    "scale": {"domain": [1, 3000]}
+                },
+                "color": {
+                    "field": "PRIMARYFUELTYPE",
+                    "type": "nominal",
+                    "title": "Generated Fuel Type",
+                    "scale": {"scheme": "paired"}
+                },
+                "opacity": {
+                    "condition": {"param": "fuel_highlight", "value": 0.6},
+                    "value": 0.2
+                }
+            }
+            
+        }
+
+    ]
+}

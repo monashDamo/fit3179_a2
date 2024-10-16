@@ -1,0 +1,51 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {"text":"Distribution of power plants over fuel type","fontSize":14},
+    "data": {
+      "url": "Files/MajorPowerStations_v2.csv"
+    },
+    "background":"transparent",
+    "width": 420,
+    "height": 200,
+    "params": [
+      {
+        "name": "Min_Capacity",
+        "value":0,
+        "bind":{
+            "input": "range",
+            "min": 0,
+            "max": 500,
+            "step": 1,
+            "name": "Minimum Nameplate Capacity (MW): "
+        }
+      }
+    ],
+    "transform": [
+      {
+          "filter": "datum.GENERATIONMW > Min_Capacity"
+      }
+    ],
+    "layer": [
+      {
+        "mark": {
+          "type": "boxplot",
+          "extent":1,
+          "opacity": 1
+        },
+        "encoding": {
+        
+        "y": {
+          "field": "GENERATIONMW",
+          "type": "quantitative",
+          "title": "Amount (MW)"
+        },
+        "x": {
+          "field": "PRIMARYFUELTYPE", "type": "nominal", "axis": {"title": "Fuel Type"}
+          },
+          "color": {"field": "PRIMARYFUELTYPE", "type": "nominal", "scale": {"scheme": "paired"}}
+        }
+      }
+    ]
+    
+  }
+  

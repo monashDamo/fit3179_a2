@@ -1,0 +1,131 @@
+body {
+    margin:0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #DDC876;
+    align-items: center;
+    font-family: "Inter", sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    color: #a869bf;
+    font-size: 31px;
+}
+
+.outside-div {
+    margin-top:30px;
+    margin-bottom: 60px;
+    width:650px;
+    height: fit-content;
+    background-color: #DDD6C0;
+    padding-top: 20px;
+    padding-bottom:20px;
+    padding-inline: 55px;
+    border-radius: 20px;
+    box-shadow: 20px 20px;
+}
+
+p {
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 14px;
+}
+
+.intro-body {
+    display: flex;
+    font-family: inherit;
+    height:300px;
+}
+
+.intro-title {
+    position: relative;
+    width: 50%;
+    top:0;
+    left:0;
+    color:#a869bf;
+}
+
+.intro-text {
+    width: 50%;
+    top:0;
+    right:0;
+    bottom:0;
+    margin-top:15px;
+    margin-left: 30px;
+    align-content: center;
+}
+
+.intro-p-text {
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 42px;
+    padding-top:10px;
+    font-weight: 800;
+}
+
+h4 {
+    font-size: 20px;
+    padding-top:10px;
+    padding-bottom: 20px;
+    font-weight: 400;
+}
+
+
+h3 {
+    font-style: italic;
+}
+h6 {
+    font-size: 15px;
+    padding-top:10px;
+    font-weight: 400;
+    font-style: italic;
+    position: absolute;
+    bottom: 2px;
+
+}
+
+.breaker-div {
+    height: 20px;
+    width:100%;
+}
+
+.pieChart-body {
+    display: flex;
+}
+
+.pieChart-text {
+    width: 50%;
+    margin-left:20px;
+    right: 0;
+    position: relative;
+}
+
+.big-margin {
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+
+
+.display-container {
+    display: flex;
+}
+
+.container-right {
+    position: relative;
+    right: 0;
+    width: 50%;
+}
+
+.container-left {
+    position: relative;
+    left: 0;
+    width: 50%;
+}

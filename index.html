@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-Edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="allStyles.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <script src="vega_lite_vis.js"></script>
+  </head>
+
+  <body>
+    <div class="outside-div">
+      <div class="intro-body">
+        <div class="intro-title">
+          <h1>From production to the lightbulb</h1>
+          <h4 style="color: #77368e">
+            Australian Energy Explained (1995-2022)
+          </h4>
+          <h6 style="color: black">by Damanpreet Singh</h6>
+        </div>
+        <div class="intro-text">
+          <p class="intro-p-text">
+            <strong style="font-size: 1.1rem; color: #a869bf">There </strong>is
+            a lot which happens behind the scenes which enables us in australia
+            to use our electricity. From the different power plants which
+            generate our electricity, and deciding where to build new ones. To
+            where our energy actually goes. And what part renewables play in
+            this. <br /><br />The purpose of this visualization is to explain
+            plainly the relationship between Australia and its electricity,
+            where it comes from, how its used, and where it is heading in the
+            future. <br /><br />Enjoy!
+          </p>
+        </div>
+      </div>
+      <!-- Background info -->
+      <div class="breaker-div"></div>
+      <div clas="graph-section">
+        <h3>Some background information</h3>
+        <p>
+          Energy in Australia is regulated and controlled by three main bodies.
+          These are the Australian Energy Regulator (AER), the Australian Energy
+          Market Commission (AEMC) and finally the Australian Energy Market
+          Operator (AEMO). The AER is responsible for regulating the wholesale
+          energy and gas markets in Australia. The AEMC is responsible for
+          creating rule and regulations which are enforced by the AER. And
+          finally the AEMO. This is responsible for overseeing various functions
+          of the australian gas and energy markets. These can basically be
+          summed up to maintaining and overseeing these markets, managing these
+          markets, and finally leading the design of the future energy systems
+          in all of australia.
+          <br /><br />
+          Whilst all 3 of these bodies are equally important, we will mostly be
+          focusing on the AEMO.
+          <br /><br />
+          We will also be using MegaWatt (MW) and PetaJoule (PJ) energy
+          measurements in this visualization.
+        </p>
+      </div>
+      <!-- Section 1 -->
+      <div clas="graph-section">
+        <h2 class="big-margin">1. Where does our energy come from?</h2>
+        <div class="pieChart-body">
+          <div id="energyPieChart" style="position: relative; width: 50%"></div>
+          <p class="pieChart-text">
+            The graph on the left shows where our energy come from (2). As we
+            can see, most of energy is produced through coal (brown and black
+            coal). And some of it is imported. But most of it comes from
+            non-renewable sources. Only a small percentage of it comes from
+            renewable sources, around <strong>2.66%</strong>. All in all, just
+            considering 2022-23 australia generated roughly 20,836 PetaJoules
+            worth of energy! <br /><br />
+            But with that said, how do we actually make the energy we get
+            inhouse? Using power plants!
+          </p>
+        </div>
+        <div class="powerStationsMap-body">
+          <div id="powerStationsMap"></div>
+        </div>
+        <div class="powerPlantBoxPlot-body">
+          <div id="powerPlantBoxPlot"></div>
+          <p>
+            This "Power Stations over Australia" (3) graph shows the
+            distribution of power plants across australia. As you can most of
+            the coal plants (click on the legend) are placed on the outskirts of
+            australia, as coal is found in rugged terrains in
+            <a
+              href="https://www.bravusmining.com.au/where-is-coal-found-in-australia/"
+              >basins and underground deposits</a
+            >. On the other hand, solar farms are
+            <a
+              href="https://www.linkedin.com/advice/3/how-can-you-determine-most-effective-location-cucre"
+              >placed</a
+            >
+            in the middle of australia and near victoria. Wind farms, on the
+            other hand are also placed on the
+            <a href="https://globalwindatlas.info/en/area/Australia"
+              >outskirts as well</a
+            >, since it receives good amount of wind. Ofcourse for all of these
+            options, these farms also need to be near civilisation as well to
+            provide them with electricity.<br /><br />Even though there are
+            ample amount of renewable plants, non-renewable plants generate far
+            more power. This can be seen on the "Distribution of power plants
+            over fuel type" (3) graph. If you adjust the minimum nameplate
+            capacity, you will see that many renewable plants will just
+            disappear. By 200 capacity (MW), wind and water are the only
+            remaining renewable sources. By 500, water is the only one. But the
+            best water plant doesn't generate as much power as the best
+            non-renewable plant. This being the Eraring Coal Plant which has a
+            capacity of 2,880 MW.
+          </p>
+        </div>
+      </div>
+      <!-- Section 2 -->
+      <div clas="graph-section">
+        <h2 class="big-margin">2. Where does our energy go?</h2>
+        <p>
+          As I explained, most of our energy is produced in australia. But once
+          it is produced, where does it go? <br /><br />Our energy production
+          can basically be summed by as non-renewable, imports and renewable. On
+          the other hand, our energy usage can be summed up as being exported,
+          used in various industries and also incurring some loss. "Power
+          Production in Australia (2022-23)" already showed us how much energy
+          is produced. But how does it get used?
+        </p>
+        <div class="industriesUsage-body display-container">
+          <div class="container-left" id="industriesUsage"></div>
+          <!--
+          <div class="container-right" id="energyExports"></div>-->
+        </div>
+        <p>
+          From the "Consumption of energy (PJ) in various industries" (2), we
+          can see that no renewable energy is used in any of these industries.
+          Black coal is used primarily to produce electricity. On the other hand
+          Diesel is used a lot, mostly in the transport industry, then being
+          scattered around Agriculture, Water and Waste, Construction, and more.
+          <br /><br />You might be confused as to where "Petrol", "Diesel" even
+          come from, since we didn't see them in the first section. Diesel and
+          Petrol are simply byproducts of Crude Oil which we did look at before.
+          They are actually produced largely in the manufacturing industry,
+          through the oil refinement process. All of this energy together comes
+          to about 5,467 PJ. However that there something very important we need
+          to note, which is that Electricity is basically creating electricity
+          to THEN be later used in other industries. This is indicated by the
+          electricity also being a fuel source for many industries. Since this
+          is not explicitily an industry, we need to remove this. Doing so we
+          get some net usage of around 3,863 PJ <br /><br />Earlier we saw said
+          that we generated around 18,709 PJ worth of energy? So where is the
+          rest going? Its simply being exported. <br /><br />
+          Around 15 thousand (PJ) was exported in (2022-23). And of that most of
+          what coal, followed by natural gases, and then various other fuels.
+          <br /><br />
+          You might have noticed that renewable energy doesn't get used much,
+          atleast in the various industries. Its mainly used to generate
+          electricity, used in manufacturing and residential areas.
+          <br /><br />
+          But it doesn't see much use, but will this ever change?
+        </p>
+      </div>
+      <!-- Section 3 -->
+      <div clas="graph-section">
+        <h2 class="big-margin">3. Looking to the future</h2>
+        <p>
+          According to AEMO, Australia plans to transition the NEM network to
+          net zero by 25 years. There plan include to drastically increase
+          renewable capabilities. This includes increasing battery storage to 49
+          GW to 3 GW, increase Wind and Solar plants capacities to 127 GW, and
+          stop electricity generation from coal to 0%. So are we on our way to
+          meeting this target?
+        </p>
+        <div id="elecGenByYear"></div>
+        <p>
+          If we look at this graph (2), we can see that we have made ample
+          progress. Whilst most of our energy is still generated by
+          non-renewables. This might look grim, but our plan is to turn to
+          renewables for electricity for atleast the NEM network by 2050. So are
+          we on the right track?
+        </p>
+        <div id="PowerPlantsCloseData"></div>
+        <p>
+          If we consider the above graph (1). You might have noticed that a lot
+          of power plants are planned to get shut down, and most of those
+          actually include renewables. That may seem a bit counterintuitive, but
+          that is simply because this factors in the lifespan of these plants,
+          these being
+          <a
+            href="https://coldwellsolar.com/commercial-solar-blog/what-is-the-life-expectancy-of-solar-farms/"
+            >solar</a
+          >,
+          <a href="https://windexchange.energy.gov/end-of-service-guide">wind</a
+          >. The important thing to realize is that so many new renewable plants
+          have sprung up quite recently near the 2020s. This sentiment is
+          similarily echoed in the "Amount of electricity (PJ) by year" graph
+          which shows that we rely on more renewables for our electricity needs
+          than ever before. <br /><br />Its also very important to highlight
+          that not many non-renewable plants have an expected date listed, but
+          that is infact accurate, as the AEMO roadmap simply highlights moving
+          to renewables for our electrical needs, not going completely green.
+          With that said, the progress we have seen so far is very much
+          admirable.
+        </p>
+        <p>
+          All data was collected and used from various sources. These include
+          (1)
+          <a
+            href="https://aemo.com.au/en/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information"
+            >July 2024 AEMO General Information</a
+          >, (2)
+          <a
+            href="https://www.energy.gov.au/publications/australian-energy-update-2024"
+            >the Australian Energy Update</a
+          >, and (3)
+          <a
+            href="https://ecat.ga.gov.au/geonetwork/srv/api/records/04661f51-82ee-144e-e054-00144fdd4fa6"
+            >Geoscience Australia</a
+          >
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

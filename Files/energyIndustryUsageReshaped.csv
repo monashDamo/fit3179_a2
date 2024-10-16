@@ -1,0 +1,61 @@
+,Industry,variable,value
+0,Agriculture,Black coal,
+1,Mining,Black coal,
+2,Manufacturing,Black coal,176.1
+3,Electricity generation,Black coal,945.9
+4,Construction,Black coal,
+5,Transport,Black coal,
+6,Gas supply,Black coal,
+7,Water and waste,Black coal,
+8,Commercial and services,Black coal,
+9,Residential,Black coal,
+10,Agriculture,Natural gas,2.1
+11,Mining,Natural gas,405.0
+12,Manufacturing,Natural gas,368.9
+13,Electricity generation,Natural gas,516.2
+14,Construction,Natural gas,2.7
+15,Transport,Natural gas,19.2
+16,Gas supply,Natural gas,6.1
+17,Water and waste,Natural gas,1.7
+18,Commercial and services,Natural gas,49.1
+19,Residential,Natural gas,147.1
+20,Agriculture,Petrol,9.6
+21,Mining,Petrol,0.0
+22,Manufacturing,Petrol,0.4
+23,Electricity generation,Petrol,0.0
+24,Construction,Petrol,0.1
+25,Transport,Petrol,527.6
+26,Gas supply,Petrol,
+27,Water and waste,Petrol,0.0
+28,Commercial and services,Petrol,
+29,Residential,Petrol,
+30,Agriculture,Diesel,84.9
+31,Mining,Diesel,290.0
+32,Manufacturing,Diesel,18.3
+33,Electricity generation,Diesel,44.8
+34,Construction,Diesel,25.8
+35,Transport,Diesel,725.8
+36,Gas supply,Diesel,0.0
+37,Water and waste,Diesel,1.4
+38,Commercial and services,Diesel,31.6
+39,Residential,Diesel,
+40,Agriculture,Electricity,7.3
+41,Mining,Electricity,164.3
+42,Manufacturing,Electricity,196.5
+43,Electricity generation,Electricity,99.3
+44,Construction,Electricity,7.2
+45,Transport,Electricity,24.8
+46,Gas supply,Electricity,0.5
+47,Water and waste,Electricity,12.8
+48,Commercial and services,Electricity,225.6
+49,Residential,Electricity,249.8
+50,Agriculture,Renewables,0.0
+51,Mining,Renewables,0.0
+52,Manufacturing,Renewables,103.1
+53,Electricity generation,Renewables,334.3
+54,Construction,Renewables,0.1
+55,Transport,Renewables,5.0
+56,Gas supply,Renewables,0.0
+57,Water and waste,Renewables,0.9
+58,Commercial and services,Renewables,0.7
+59,Residential,Renewables,68.4
